@@ -43,7 +43,7 @@
 # print("Speciality : ", data[74:])
 
 
-
+# 
 # ran_1 = int(input("Ran 1 : "))
 # ran_2 = int(input("Ran 2 : "))
 #
