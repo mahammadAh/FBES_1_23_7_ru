@@ -1,5 +1,2 @@
-﻿  lesson_01_08_23.cpp
-C:\Users\ahmadov_m\Desktop\ПКО\FBES_1_23_7_ru\C++ Basic\first_lesson\first_lesson\lesson_01_08_23.cpp(8,28): warning C4305: 'initializing': truncation from '__int64' to 'int'
-C:\Users\ahmadov_m\Desktop\ПКО\FBES_1_23_7_ru\C++ Basic\first_lesson\first_lesson\lesson_01_08_23.cpp(8,14): warning C4309: 'initializing': truncation of constant value
-C:\Users\ahmadov_m\Desktop\ПКО\FBES_1_23_7_ru\C++ Basic\first_lesson\first_lesson\lesson_01_08_23.cpp(12,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+﻿  lesson_03_08_23.cpp
   first_lesson.vcxproj -> C:\Users\ahmadov_m\Desktop\ПКО\FBES_1_23_7_ru\C++ Basic\first_lesson\Debug\first_lesson.exe

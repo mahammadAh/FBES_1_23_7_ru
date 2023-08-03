@@ -21,5 +21,8 @@
     <ClCompile Include="lesson_01_08_23.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lesson_03_08_23.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
