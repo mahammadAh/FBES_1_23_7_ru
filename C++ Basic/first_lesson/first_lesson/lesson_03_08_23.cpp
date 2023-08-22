@@ -1,9 +1,9 @@
-#include<iostream>
+//#include<iostream>
 
-using namespace std;
+//using namespace std;
 
-int main()
-{
+//int main()
+//{
 	//char word_1 = 'ï';
 	//cout << word_1 << endl;
 	//char16_t word_2 = U'ï';
@@ -74,4 +74,4 @@ int main()
 	//a *= 5; // a = a * 5 ;
 	//cout << a;
 
-}
+//}
