@@ -101,5 +101,8 @@ int main()
 	int arr[5] = { 1,2,3,4,6 };
 
 	cout << arr;
+
+	system("sleep 10");
+
 }
 
