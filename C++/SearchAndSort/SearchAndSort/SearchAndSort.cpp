@@ -77,7 +77,7 @@ int main()
 
     //  Сортировка вставкой - Insertion Sort 
 
-    const int size = 8;
+ /*   const int size = 8;
     int arr[size] = { 9,7,6,15,17,5,10,11};
     int currentElement = 0;
 
@@ -97,11 +97,35 @@ int main()
     for (int i = 0; i < size; i++)
     {
         cout << arr[i] << " ";
+    }*/
+
+
+    // Сортировка Выборкой - Selection Sort 
+
+    const int size = 8;
+    int arr[size] = { 9,7,6,15,17,5,10,11 };
+
+    for (int i = 0; i < size-1; i++)
+    {
+        int minIndex = i;
+        for (int j = i+1; j < size; j++)
+        {
+            if (arr[j] < arr[minIndex])
+            {
+                minIndex = j;
+            }
+        }
+
+        int buff = arr[i];
+        arr[i] = arr[minIndex];
+        arr[minIndex] = buff;
     }
 
 
-
-
+    for (int i = 0; i < size; i++)
+    {
+        cout << arr[i] << " ";
+    }
 }
 
 
