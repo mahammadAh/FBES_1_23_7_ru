@@ -1,3 +1,2 @@
 ﻿  2xArray.cpp
-C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\2xArray\2xArray\2xArray.cpp(34,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   2xArray.vcxproj -> C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\2xArray\x64\Debug\2xArray.exe

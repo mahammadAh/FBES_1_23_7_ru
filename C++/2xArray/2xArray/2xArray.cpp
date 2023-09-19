@@ -31,7 +31,7 @@ int main()
     //    cout << endl;
     //}
 
-    srand(time(NULL));
+ /*   srand(time(NULL));
     int const rows = 10;
     int const columns = 10;
     char land[rows][columns];
@@ -96,7 +96,10 @@ int main()
         }
         cout << "SCORE : " << score << endl << endl;
 
-    }
+    }*/
+
+    int max = INT_MIN;
+    cout << max;
     
 }
 
