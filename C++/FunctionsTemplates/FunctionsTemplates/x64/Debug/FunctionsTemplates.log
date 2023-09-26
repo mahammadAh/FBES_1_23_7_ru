@@ -1,0 +1,13 @@
+﻿  FunctionsTemplates.cpp
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\FunctionsTemplates\FunctionsTemplates\FunctionsTemplates.cpp(21,16): warning C4244: '=': conversion from 'S' to 'int', possible loss of data
+          with
+          [
+              S=double
+          ]
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\FunctionsTemplates\FunctionsTemplates\FunctionsTemplates.cpp(39,10): message : see reference to function template instantiation 'T sqrNum2<int,double>(T,S)' being compiled
+          with
+          [
+              T=int,
+              S=double
+          ]
+  FunctionsTemplates.vcxproj -> C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\FunctionsTemplates\x64\Debug\FunctionsTemplates.exe
