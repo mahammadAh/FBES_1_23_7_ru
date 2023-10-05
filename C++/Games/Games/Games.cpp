@@ -58,15 +58,19 @@ void changePlayerLocation() {
     while (clickedKey != Enter) {
         switch(_getch()) {
         case 87:
+        case 119:
             clickedKey = W;
             break;
         case 83:
+        case 115:
             clickedKey = S;
             break;
         case 65:
+        case 97:
             clickedKey = A;
             break;
         case 68:
+        case 100:
             clickedKey = D;
             break;
         case 13:
