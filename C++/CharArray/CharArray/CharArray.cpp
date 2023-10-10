@@ -13,11 +13,13 @@ void printArray(char*& string, int& size) {
 void writeToArray(char*& string,int& size) {
 	char sym = ' ';
 	bool isDelete = false;
+	bool isBreak = false;
 	char* newString = new char;
 	while (true) {
 		sym = _getch();
 		if (sym == 13) {
-			break;
+
+			isBreak = true;
 		}
 		else if (sym == 8) {
 			isDelete = true;
@@ -28,8 +30,14 @@ void writeToArray(char*& string,int& size) {
 			for (int i = 0; i < size; i++) {
 				newString[i] = string[i];
 			}
-			newString[size] = sym;
+			if (!isBreak) {
+				newString[size] = sym;
+			}
+			else {
+				newString[size] = '\0';
+			}
 			size++;
+
 		}
 		else {
 			newString = new char[size - 1];
@@ -48,6 +56,7 @@ void writeToArray(char*& string,int& size) {
 		system("cls");
 		printArray(string, size);
 
+		if (isBreak) break;
 
 	}
 }
@@ -60,8 +69,20 @@ int main()
 	int size = 0;
 	writeToArray(string, size);
 
+	//char arr[] = "hello world";
+	
 
-
+	int i = 0;
+	while (true) {
+		if (string[i] == '\0') {
+			cout << "\\0";
+			break;
+		}
+		else {
+			cout << string[i];
+		}
+		i++;
+	}
 }
 
 
