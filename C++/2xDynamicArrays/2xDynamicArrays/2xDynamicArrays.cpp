@@ -55,11 +55,14 @@ int main()
 	//fillArray(arr, size1, size2);
 	//printArray(arr, size1, size2);
 
-	int size = 15+rand()%25;
+	int size = 1+rand()%5;
 	int* arrSize = new int[size]; // arr1 - pointer
 
 	int** arr = new int* [size]; // arr2 - pointer to pointer
 
+
+
+	
 
 	for (int i = 0; i < size; i++) {
 		int newSize = 1 + rand() % 25;
@@ -68,6 +71,13 @@ int main()
 	}
 
 	fillDynamicArray(arr, arrSize,size);
+	printDynamicArray(arr, arrSize, size);
+	cout << endl << endl << endl;
+
+	int* newArr = new int[5] {1, 2, 3, 4, 5};
+	arrSize[0] = 5;
+	arr[0] = newArr;
+
 	printDynamicArray(arr, arrSize, size);
 
 }
