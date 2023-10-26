@@ -1,0 +1,5 @@
+﻿  Preprecessor.cpp
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\Preprecessor\Preprecessor\myMath.h(3,21): error C2011: 'myMathStruct': 'struct' type redefinition
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\Preprecessor\Preprecessor\myMath.h(3,8): message : see declaration of 'myMathStruct'
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\Preprecessor\Preprecessor\Preprecessor.cpp(39,15): error C2079: 'math' uses undefined struct 'myMathStruct'
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\Preprecessor\Preprecessor\Preprecessor.cpp(42,16): error C3536: 'result': cannot be used before it is initialized
