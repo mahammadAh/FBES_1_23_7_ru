@@ -1,0 +1,5 @@
+﻿  union.cpp
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\union\union\union.cpp(14,10): warning C4101: 'secondValue': unreferenced local variable
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\union\union\union.cpp(15,11): warning C4101: 'ThirdValue': unreferenced local variable
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\union\union\union.cpp(13,9): warning C4101: 'firstValue': unreferenced local variable
+  union.vcxproj -> C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\union\x64\Debug\union.exe
