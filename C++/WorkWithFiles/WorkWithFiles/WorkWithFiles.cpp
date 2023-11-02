@@ -3,13 +3,10 @@
 using namespace std;
 
 
-void addDataToFile(FILE* file, bool isEnd = false) {
-    fopen_s(&file, "C:\\Users\\ahmadov_m\\Desktop\\our folder\\data.txt", "a");
+void addDataToFile(FILE* file) {
+    fopen_s(&file, "data.txt", "a");
 
-    if (isEnd) {
-        fprintf_s(file, "%s", "$");
-    }
-    else {
+
         const int nameSize = 20;
         char name[nameSize];
         int age;
@@ -19,7 +16,8 @@ void addDataToFile(FILE* file, bool isEnd = false) {
         cout << "Enter Student Age -> ";
         cin >> age;
         fprintf_s(file, "%s %i\n", name, age);
-    }
+
+        fflush(file);
 
     fclose(file);
 }
@@ -27,18 +25,25 @@ void addDataToFile(FILE* file, bool isEnd = false) {
 
 void readDataFromFile(FILE* file) {
  
-    fopen_s(&file, "C:\\Users\\ahmadov_m\\Desktop\\our folder\\data.txt", "r");
+    fopen_s(&file, "data.txt", "r");
     char name[20];
     int age;
-    while (true) {
+
+ 
+    while (feof(file) == 0) {
         fscanf_s(file, "%s %i", name, sizeof(name), &age);
-        if (name[0] == '$') {
-            break;
-        }
+
+   
+
         cout << "Student Name : " << name << "\t\t";
         cout << "Student Age : " << age << endl;
-
+        
+        fflush(file);
+ 
     }
+
+    fclose(file);
+
 
 }
 
@@ -94,20 +99,18 @@ int main()
 
     int select;
     while (true) {
-        cout << "1.Add Student\n 2.Exit" << endl;
+        cout << "1.Add Student\n2.Print Student" << endl;
         cin >> select;
         if (select == 1) {
             addDataToFile(myFile);
         }
-        else {
-            bool isEnd = true;
-            addDataToFile(myFile, isEnd);
-            break;
+        else if (select == 2){
+            readDataFromFile(myFile);
         };
     }
 
 
-   readDataFromFile(myFile);
+  
 
 
 
