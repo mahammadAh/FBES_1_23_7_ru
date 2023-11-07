@@ -15,6 +15,7 @@ void addDataToFile(FILE* file) {
         cin.getline(name, nameSize);
         cout << "Enter Student Age -> ";
         cin >> age;
+        fflush(file);
         fprintf_s(file, "%s %i\n", name, age);
 
         fflush(file);
@@ -24,13 +25,13 @@ void addDataToFile(FILE* file) {
 
 
 void readDataFromFile(FILE* file) {
- 
     fopen_s(&file, "data.txt", "r");
     char name[20];
     int age;
 
  
     while (feof(file) == 0) {
+
         fscanf_s(file, "%s %i", name, sizeof(name), &age);
 
    
@@ -99,13 +100,16 @@ int main()
 
     int select;
     while (true) {
-        cout << "1.Add Student\n2.Print Student" << endl;
+        cout << "1.Add Student\n2.Print Student\n3.Exit" << endl;
         cin >> select;
         if (select == 1) {
             addDataToFile(myFile);
         }
         else if (select == 2){
             readDataFromFile(myFile);
+        }
+        else if (select == 3) {
+            break;
         };
     }
 

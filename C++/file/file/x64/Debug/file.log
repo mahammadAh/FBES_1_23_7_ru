@@ -1,6 +1,2 @@
 ﻿  file.cpp
-C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\file\file\file.cpp(12,24): warning C4477: 'fscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
-C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\file\file\file.cpp(12,24): message : this argument is used as a buffer size
-C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\file\file\file.cpp(49,22): warning C4477: 'fscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
-C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\file\file\file.cpp(49,22): message : this argument is used as a buffer size
   file.vcxproj -> C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C++\file\x64\Debug\file.exe

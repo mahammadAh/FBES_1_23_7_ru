@@ -1,75 +1,58 @@
-#include<iostream>
+#include <iostream>
+#include <time.h>
+#include <stdlib.h>
+#include <windows.h>
+#include <conio.h>
 using namespace std;
 
+FILE* recordFile;
 
-struct snakeBodyPart {
-	int x;
-	int y;
+struct Record {
+	const char* name = "Player";
+	int score = 0;
 };
-int main()
-{
-	int snakeLength = 1;
-	snakeBodyPart* snake = new snakeBodyPart[snakeLength];
-	snake[0].x = 0;
-	snake[0].y = 0;
 
 
+void readFromFile(Record records[10]) {
+	fopen_s(&recordFile, "records.txt", "r");
 
-
-
-	int map[10][10];
-
-	for (int i = 0; i < 10; i++) {
-		for (int j = 0; j < 10; j++) {
-			map[i][j] = '0';
-		}
+	int i = 0;
+	while (true) {
+		fscanf_s(recordFile, "%s %i", records[i].name, records[i].score);
+		i++;
+		if (i == 10) break;
 	}
 
-
-	for (int i = 0; i < 10; i++) {
-		for (int j = 0; j < 10; j++) {
-			
-			for (int d = 0; d < snakeLength; d++) {
-				if (snake[d].x == i && snake[d].y == j) {
-					cout << "=";
-				}
-				else {
-					cout << " ";
-				}
-			}
-	
-		}
-		cout << endl;
-	}
-
-
-	snakeLength += 1;
-	snakeBodyPart* newSnake = new snakeBodyPart[snakeLength];
-	for (int i = 0; i < snakeLength-1; i++) {
-		newSnake[i] = snake[i];
-	}
-	snake[snakeLength-1].x = 1;
-	snake[snakeLength-1].y = 1;
-
-	snake = newSnake;
-
-	system("cls");
-
-	for (int i = 0; i < 10; i++) {
-		for (int j = 0; j < 10; j++) {
-
-			for (int d = 0; d < snakeLength; d++) {
-				if (snake[d].x == i && snake[d].y == j) {
-					cout << "=";
-				}
-				else {
-					cout << " ";
-				}
-			}
-
-		}
-		cout << endl;
-	}
-	
+	fclose(recordFile);
 }
 
+void writeToFile(Record records[]) {
+	fopen_s(&recordFile, "records.txt", "w");
+
+	for (int i = 0; i < 10; i++) {
+		fprintf_s(recordFile, "%s %i\n", records[i].name, sizeof(records[i].name), records[i].score);
+	}
+
+	fclose(recordFile);
+
+}
+
+
+
+int main()
+{
+
+	Record records[10];
+
+	readFromFile(records);
+
+	for (int i = 0; i < 10; i++) {
+		cout << records[i].name << " : " << records[i].score << endl;
+	}
+
+
+
+	writeToFile(records);
+
+
+}

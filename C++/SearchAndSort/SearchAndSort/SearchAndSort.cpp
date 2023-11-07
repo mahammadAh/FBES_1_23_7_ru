@@ -60,49 +60,49 @@ int main()
    // Пузырьковая сортировка - Bubble Sort 
 
 
-    //const int size = 5;
-    //int arr[size] = { 4,3,9,1,5};
-    //int buff = 0;
-    //for (int i = 0; i < size-1; i++) {
-    //    for (int j = 0; j < size-i-1; j++) {
-    //        if (arr[j + 1] < arr[j])
-    //        {
-    //            buff = arr[j + 1];
-    //            arr[j + 1] = arr[j];
-    //            arr[j] = buff;
-    //        }
-    //    }
-    //}
+  /*  const int size = 5;
+    int arr[size] = { 4,3,9,1,5};
+    int buff = 0;
+    for (int i = 0; i < size-1; i++) {
+        for (int j = 0; j < size-i-1; j++) {
+            if (arr[j + 1] < arr[j])
+            {
+                buff = arr[j + 1];
+                arr[j + 1] = arr[j];
+                arr[j] = buff;
+            }
+        }
+    }*/
 
 
     //  Сортировка вставкой - Insertion Sort 
 
- /*   const int size = 8;
-    int arr[size] = { 9,7,6,15,17,5,10,11};
-    int currentElement = 0;
+    //const int size = 8;
+    //int arr[size] = { 9,7,6,15,17,5,10,11};
+    //int currentElement = 0;
 
 
-    for (int i = 1; i < size; i++)
-    {
-        currentElement = arr[i];
-        int j = i-1;
-        while (j >= 0 && currentElement < arr[j])
-        {
-            arr[j + 1] = arr[j];
-            arr[j] = currentElement;
-            j--;
-        }
-    }
+    //for (int i = 1; i < size; i++)
+    //{
+    //    currentElement = arr[i];
+    //    int j = i-1;
+    //    while (j >= 0 && currentElement < arr[j])
+    //    {
+    //        arr[j + 1] = arr[j];
+    //        arr[j] = currentElement;
+    //        j--;
+    //    }
+    //}
 
-    for (int i = 0; i < size; i++)
-    {
-        cout << arr[i] << " ";
-    }*/
+    //for (int i = 0; i < size; i++)
+    //{
+    //    cout << arr[i] << " ";
+    //}
 
 
     // Сортировка Выборкой - Selection Sort 
 
-    const int size = 8;
+   /* const int size = 8;
     int arr[size] = { 9,7,6,15,17,5,10,11 };
 
     for (int i = 0; i < size-1; i++)
@@ -125,7 +125,7 @@ int main()
     for (int i = 0; i < size; i++)
     {
         cout << arr[i] << " ";
-    }
+    }*/
 }
 
 
