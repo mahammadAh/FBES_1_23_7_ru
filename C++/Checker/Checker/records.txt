@@ -1,10 +1,2 @@
-Player 8
-Player 8
-Player 8
-Player 8
-Student 8
-Player 8
-Player 8
-Player 8
-Player 8
-Player 8
+player_11 10
+player_22 20
