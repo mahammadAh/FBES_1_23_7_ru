@@ -1,0 +1,4 @@
+﻿  Classes.cpp
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\С++ OOP\Classes\Classes\Classes.cpp(17,16): error C3892: 'actorName': you cannot assign to a variable that is const
+  PersonMethods.cpp
+  Generating Code...
