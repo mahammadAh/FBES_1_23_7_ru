@@ -1,0 +1,4 @@
+﻿  Classes ( Constructor Destructor ).cpp
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\С++ OOP\Classes ( Constructor Destructor )\Classes ( Constructor Destructor )\Classes ( Constructor Destructor ).cpp(280,45): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1251)
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\С++ OOP\Classes ( Constructor Destructor )\Classes ( Constructor Destructor )\Classes ( Constructor Destructor ).cpp(290,31): warning C4566: character represented by universal-character-name '\u00FC' cannot be represented in the current code page (1251)
+  Classes ( Constructor Destructor ).vcxproj -> C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\С++ OOP\Classes ( Constructor Destructor )\x64\Debug\Classes ( Constructor Destructor ).exe
