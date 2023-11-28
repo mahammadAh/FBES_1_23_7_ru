@@ -1,0 +1,3 @@
+﻿  const.cpp
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\С++ OOP\const\const\const.cpp(113,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  const.vcxproj -> C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\С++ OOP\const\x64\Debug\const.exe

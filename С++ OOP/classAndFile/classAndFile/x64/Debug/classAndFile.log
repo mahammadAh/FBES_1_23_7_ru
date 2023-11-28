@@ -1,0 +1,3 @@
+﻿  classAndFile.cpp
+C:\Users\ahmadov_m\Desktop\classAndFile\classAndFile\classAndFile.cpp(115,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  classAndFile.vcxproj -> C:\Users\ahmadov_m\Desktop\classAndFile\x64\Debug\classAndFile.exe
