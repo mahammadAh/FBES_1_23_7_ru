@@ -53,7 +53,26 @@ public:
 
         return Point((this->x-1), (this->y-1));
     }
+
+
+    friend ostream& operator<<(ostream& _ostream, const Point& point);
+
+    friend istream& operator>>(istream& _istream, Point& point);
+
+
 };
+
+
+ostream& operator<<(ostream& _ostream,const Point& point ) {
+     _ostream<< "( " << point.x << "," << point.y << " )";
+    return _ostream;
+}
+
+istream& operator>>(istream& _istream, Point& point) {
+    _istream >> point.x;
+    _istream >> point.y;
+    return _istream;
+}
 
 
 //Point operator+ (Point& point1, Point& point2) {
@@ -74,6 +93,8 @@ void printPoint( Point& point, int num) {
     cout << num <<"\t( "<<point.getX() << "," << point.getY() << " )"<< endl;
 }
 
+
+
 int main()
 {
     //int a = 5;
@@ -89,37 +110,49 @@ int main()
 
     Point point3(point1.getX() + point2.getX(), point1.getY() + point2.getY());
 
-    printPoint(point1,1);
-    printPoint(point2,2);
-    printPoint(point3,3);
+    cout << point1 << endl << point2 << endl << point3;
 
     Point point4 = point1 + point2;
 
-    printPoint(point4,4);
+    cout << point4 << endl;
 
     Point point5 = !point4;
 
-    printPoint(point5,5);
+    cout << point5 << endl;
 
     Point point6 = point2 - point1;
 
-    printPoint(point6,6);
-
+    cout << point6 << endl;
     Point point7 = !point6;
 
-    printPoint(point7, 7);
+    cout << point7 << endl;
 
     Point point8 = ++point7;
 
-    printPoint(point8, 8);
+    cout << point8<<endl;
 
     Point point9 = point8++;
 
-    printPoint(point9, 9);
+    cout << point9 << endl;
 
-    printPoint(point8, 8);
+    cout << point8 << endl;
 
     Point point10 = point9 - point6;
+
+
+    
+    cout << point10 << endl;
+
+    cin >> point10;
+
+    cout << point10 << endl;
+
+
+    int a = 5;
+    cout << a;
+    cin >> a;
+
+    // << >> 
     
 }
 
