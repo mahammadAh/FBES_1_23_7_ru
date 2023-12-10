@@ -1,2 +1,10 @@
 ﻿  Templates.cpp
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\С++ OOP\Templates\Templates\Templates.cpp(82,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\С++ OOP\Templates\Templates\Templates.cpp(81,2): message : while compiling class template member function 'Array<double>::Array(const std::initializer_list<T> &)'
+          with
+          [
+              T=double
+          ]
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\С++ OOP\Templates\Templates\Templates.cpp(248,16): message : see the first reference to 'Array<double>::Array' in 'main'
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\С++ OOP\Templates\Templates\Templates.cpp(248,16): message : see reference to class template instantiation 'Array<double>' being compiled
   Templates.vcxproj -> C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\С++ OOP\Templates\x64\Debug\Templates.exe

@@ -2,13 +2,16 @@
 #include <string.h>
 #include <string>
 #include <stdio.h>
-#include <stdarg.h>
 #include <vector>
+#include <initializer_list>
 
 using namespace std;
 
 
+
+
 template <typename T> void sort(T arr[], int size) {
+	cout << "Obshiy shablonniy metod" << endl;
     for (int i = 0; i < size; i++) {
         T min = arr[i];
         int position = i;
@@ -24,6 +27,14 @@ template <typename T> void sort(T arr[], int size) {
 
     }
 }
+
+
+
+template<> void sort<int>(int arr[], int size) {
+	cout << "Castniy shablonniy metod" << endl;
+}
+
+
 
 
 template <typename T> void print(T arr[], int size) {
@@ -64,23 +75,23 @@ class Array {
 	T* arr = nullptr;
 	int length{ 0 };
 public:
-	Array() {
-		
-	}
+	Array() {};
 
-	Array(int size, T n, ...) {
-		length = size;
+
+	Array(const initializer_list<T>& list ) {
+		length = list.size();
 		T* newArr = new T[length];
 		arr = newArr;
 		newArr = nullptr;
+		int j = 0;
 
-		va_list factor;
-		va_start(factor, n);
-		arr[0] = n;
-		for (int i = 1; i < length; i++) {
-			arr[i] = va_arg(factor, T);
+		for (auto i = list.begin(); i != list.end(); i++,j++) {
+			arr[j] = *i;
+
 		}
 	}
+
+
 
 	void Add(T value) {
 		T* newArr = new T[length + 1];
@@ -130,6 +141,10 @@ public:
 };
 
 
+template <>
+class Array<char> {
+
+};
 
 
 int main()
@@ -220,6 +235,22 @@ int main()
 	//}
     //cout << endl;
 
+
+
+	//double intDouble[10] = { 1.9,6.5,3.0,4.8,3.4,10.7,5.6,1.90,1.1,1.0 };
+
+	//int  intArr[10] = { 19,65,3,48,34,107,56,190,11,10 };
+
+	//sort(intDouble, 10);
+	//sort(intArr, 10);
+
+
+	Array<double> marks {3.5,4.5};
+
+	for (int i = 0; i < marks.size(); i++) {
+		cout << marks.array()[i] << " ";
+	}
+	cout << endl;
 
 }
 
