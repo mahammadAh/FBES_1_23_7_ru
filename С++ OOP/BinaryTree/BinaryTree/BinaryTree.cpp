@@ -89,8 +89,32 @@ public:
     void print(TreeNode<T>* node) {
         if (node == nullptr) return;
         print(node->leftNode);
-        cout << node->value << endl;
+        cout << node->value << " ";
         print(node->rightNode);
+    }
+
+    bool hasLeftNode(TreeNode<T>* node) {
+        if (node->leftNode != nullptr) return true;
+        else return false;
+    }
+
+    bool hasRightNode(TreeNode<T>* node) {
+        if (node->rightNode != nullptr) return true;
+        else return false;
+    }
+
+    bool isLeftNode(TreeNode<T>* node) {
+        if (node->parent->value > node->value) {
+            return true;
+        }
+        return false;
+    }
+
+    bool isRightNode(TreeNode<T>* node) {
+        if (node->parent->value < node->value) {
+            return true;
+        }
+        return false;
     }
 };
 
@@ -112,12 +136,15 @@ int main()
 
     myTree.print(myTree.root);
 
-    if (myTree.search(11) != nullptr) {
-        cout << "YES" << endl;
-    }
-    else {
-        cout << "NO!" << endl;
-    }
+    cout << endl;
+    myTree.print(myTree.root);
+
+    //if (myTree.search(11) != nullptr) {
+    //    cout << "YES" << endl;
+    //}
+    //else {
+    //    cout << "NO!" << endl;
+    //}
 
 }
 
