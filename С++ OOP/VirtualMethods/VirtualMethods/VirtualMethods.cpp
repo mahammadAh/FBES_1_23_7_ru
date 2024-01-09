@@ -86,17 +86,19 @@ void print(double x) {
 }
 
 
-
+void printAnimalData(Animal* animal) {
+    animal->say();
+}
 
 int main()
 {
     //Animal* animal = new Animal();
     //cout << sizeof(*animal) << endl;
     //animal->setName("Teador");
-    //Cat* cat =  new Cat();
+    Cat* cat =  new Cat();
     //cout << sizeof(*cat) << endl;
     //cat->setName("Markiz");
-    //Dog* dog = new Dog();
+    Dog* dog = new Dog();
     //cout << sizeof(*dog) << endl;
     //dog->setName("Muxtar");
 
@@ -112,17 +114,17 @@ int main()
     //dog->say();
 
 
-    //Animal& animal1 = *cat;
-   // Animal* animal2 = cat;
+  //  Animal& animal1 = *cat;
+    //Animal* animal2 = cat;
 
 
-    //vector<Animal*> animals;
-    //animals.push_back(dog);
-    //animals.push_back(cat);
+    vector<Animal*> animals;
+    animals.push_back(dog);
+    animals.push_back(cat);
 
     
-    //srand(time(NULL));
-    //animals[rand() % 2]->say();
+    srand(time(NULL));
+    animals[rand() % 2]->say();
    
     //for (auto animal : animals) {
     //    animal->printName();
@@ -132,8 +134,8 @@ int main()
 
     //((Cat&)animal1).say();
 
-   /* print(3);
-    print(5.0);*/
+    //print(3);
+    //print(5.0);
 
 
 
