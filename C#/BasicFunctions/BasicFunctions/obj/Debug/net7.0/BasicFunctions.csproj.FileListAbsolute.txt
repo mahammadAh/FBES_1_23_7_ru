@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\bin\Debug\net7.0\BasicFunctions.exe
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\bin\Debug\net7.0\BasicFunctions.deps.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\bin\Debug\net7.0\BasicFunctions.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\bin\Debug\net7.0\BasicFunctions.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\bin\Debug\net7.0\BasicFunctions.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\obj\Debug\net7.0\BasicFunctions.csproj.AssemblyReference.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\obj\Debug\net7.0\BasicFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\obj\Debug\net7.0\BasicFunctions.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\obj\Debug\net7.0\BasicFunctions.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\obj\Debug\net7.0\BasicFunctions.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\obj\Debug\net7.0\BasicFunctions.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\obj\Debug\net7.0\refint\BasicFunctions.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\obj\Debug\net7.0\BasicFunctions.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\obj\Debug\net7.0\BasicFunctions.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\BasicFunctions\BasicFunctions\obj\Debug\net7.0\ref\BasicFunctions.dll
