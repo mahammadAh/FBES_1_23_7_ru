@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\bin\Debug\net7.0\Struct and Class.exe
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\bin\Debug\net7.0\Struct and Class.deps.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\bin\Debug\net7.0\Struct and Class.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\bin\Debug\net7.0\Struct and Class.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\bin\Debug\net7.0\Struct and Class.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\obj\Debug\net7.0\Struct and Class.csproj.AssemblyReference.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\obj\Debug\net7.0\Struct and Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\obj\Debug\net7.0\Struct and Class.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\obj\Debug\net7.0\Struct and Class.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\obj\Debug\net7.0\Struct and Class.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\obj\Debug\net7.0\Struct and Class.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\obj\Debug\net7.0\refint\Struct and Class.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\obj\Debug\net7.0\Struct and Class.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\obj\Debug\net7.0\Struct and Class.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Struct and Class\Struct and Class\obj\Debug\net7.0\ref\Struct and Class.dll
