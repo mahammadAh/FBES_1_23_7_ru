@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\bin\Debug\net7.0\Classes and Namespaces.exe
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\bin\Debug\net7.0\Classes and Namespaces.deps.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\bin\Debug\net7.0\Classes and Namespaces.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\bin\Debug\net7.0\Classes and Namespaces.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\bin\Debug\net7.0\Classes and Namespaces.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\obj\Debug\net7.0\Classes and Namespaces.csproj.AssemblyReference.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\obj\Debug\net7.0\Classes and Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\obj\Debug\net7.0\Classes and Namespaces.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\obj\Debug\net7.0\Classes and Namespaces.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\obj\Debug\net7.0\Classes and Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\obj\Debug\net7.0\Classes and Namespaces.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\obj\Debug\net7.0\refint\Classes and Namespaces.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\obj\Debug\net7.0\Classes and Namespaces.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\obj\Debug\net7.0\Classes and Namespaces.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Classes and Namespaces\Classes and Namespaces\obj\Debug\net7.0\ref\Classes and Namespaces.dll
