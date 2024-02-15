@@ -5,6 +5,9 @@ class Program
 {
     public static void Main(String[] args)
     {
+        string binaryVal = "101010";
+        int num = Convert.ToInt32(binaryVal,2);
+        Console.WriteLine(num);
         //try
         //{
         //    Foo();
