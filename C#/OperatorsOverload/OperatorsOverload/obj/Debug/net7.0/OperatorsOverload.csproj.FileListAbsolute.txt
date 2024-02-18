@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\bin\Debug\net7.0\OperatorsOverload.exe
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\bin\Debug\net7.0\OperatorsOverload.deps.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\bin\Debug\net7.0\OperatorsOverload.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\bin\Debug\net7.0\OperatorsOverload.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\bin\Debug\net7.0\OperatorsOverload.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\obj\Debug\net7.0\OperatorsOverload.csproj.AssemblyReference.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\obj\Debug\net7.0\OperatorsOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\obj\Debug\net7.0\OperatorsOverload.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\obj\Debug\net7.0\OperatorsOverload.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\obj\Debug\net7.0\OperatorsOverload.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\obj\Debug\net7.0\OperatorsOverload.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\obj\Debug\net7.0\refint\OperatorsOverload.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\obj\Debug\net7.0\OperatorsOverload.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\obj\Debug\net7.0\OperatorsOverload.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\OperatorsOverload\OperatorsOverload\obj\Debug\net7.0\ref\OperatorsOverload.dll
