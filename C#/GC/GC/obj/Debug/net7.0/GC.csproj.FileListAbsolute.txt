@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\bin\Debug\net7.0\GC.exe
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\bin\Debug\net7.0\GC.deps.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\bin\Debug\net7.0\GC.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\bin\Debug\net7.0\GC.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\bin\Debug\net7.0\GC.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\obj\Debug\net7.0\GC.csproj.AssemblyReference.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\obj\Debug\net7.0\GC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\obj\Debug\net7.0\GC.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\obj\Debug\net7.0\GC.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\obj\Debug\net7.0\GC.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\obj\Debug\net7.0\GC.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\obj\Debug\net7.0\refint\GC.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\obj\Debug\net7.0\GC.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\obj\Debug\net7.0\GC.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\GC\GC\obj\Debug\net7.0\ref\GC.dll

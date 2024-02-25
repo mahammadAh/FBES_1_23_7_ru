@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\bin\Debug\net7.0\Collections.exe
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\bin\Debug\net7.0\Collections.deps.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\bin\Debug\net7.0\Collections.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\bin\Debug\net7.0\Collections.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\bin\Debug\net7.0\Collections.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\obj\Debug\net7.0\Collections.csproj.AssemblyReference.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\obj\Debug\net7.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\obj\Debug\net7.0\Collections.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\obj\Debug\net7.0\Collections.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\obj\Debug\net7.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\obj\Debug\net7.0\Collections.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\obj\Debug\net7.0\refint\Collections.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\obj\Debug\net7.0\Collections.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\obj\Debug\net7.0\Collections.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Collections\Collections\obj\Debug\net7.0\ref\Collections.dll
