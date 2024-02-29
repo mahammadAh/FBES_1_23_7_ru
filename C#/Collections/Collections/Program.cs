@@ -1,9 +1,9 @@
 ﻿using Microsoft.VisualBasic;
 using System;
 using System.Collections;
+using System.Collections.Specialized;
 using System.Diagnostics;
-
-
+using System.Drawing;
 
 public class Math <T> 
 {
@@ -223,25 +223,62 @@ public class Program
         //        }
 
 
-        CatZooPark catZooPark = new CatZooPark();
+        //CatZooPark catZooPark = new CatZooPark();
 
 
-        catZooPark.Add(new Cat() { Name = "Markiz" });
-        catZooPark.Add(new Cat() { Name = "Jesika" });
-        catZooPark.Add(new Cat() { Name = "Busya" });
-        catZooPark.Add(new Cat() { Name = "Abrikos" });
-        catZooPark.Add(new Cat() { Name = "Boris" });
+        //catZooPark.Add(new Cat() { Name = "Markiz" });
+        //catZooPark.Add(new Cat() { Name = "Jesika" });
+        //catZooPark.Add(new Cat() { Name = "Busya" });
+        //catZooPark.Add(new Cat() { Name = "Abrikos" });
+        //catZooPark.Add(new Cat() { Name = "Boris" });
 
 
-        foreach (var cat in catZooPark)
-        {
-            Console.WriteLine(((Cat)cat).Name);
-        }
+        //foreach (var cat in catZooPark)
+        //{
+        //    Console.WriteLine(((Cat)cat).Name);
+        //}
 
         //var result = catZooPark.getLastTwoCats();
 
         //Console.WriteLine("End");
 
         //Console.Read();
+
+        //Point1:
+
+        //    Console.WriteLine("Hello");
+
+
+        //goto Point1;
+
+
+        //int val = 5;
+        //Console.WriteLine(nameof(val));
+
+
+        //string AcountNumberiNstring = "8882DKS9987239D";
+        //Console.WriteLine("AcountNumber" + AcountNumberiNstring);
+
+
+        //int[] ints = { 1, 2, 3, 4, 5 };
+
+
+        //foreach(int i in ints)
+        //{
+        //       Console.WriteLine(i);
+        //}
+
+
+        //string data = "FBES_27_1";
+
+        //string dataCopy = data ?? "Empty";
+
+        //Console.WriteLine(dataCopy);
+
+        string data = "FBES_27_1";
+
+        data ??= "Empty";
+
+        Console.WriteLine(data);
     }
 }

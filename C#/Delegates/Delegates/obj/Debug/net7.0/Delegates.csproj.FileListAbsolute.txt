@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\obj\Debug\net7.0\Delegates.csproj.AssemblyReference.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\obj\Debug\net7.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\obj\Debug\net7.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\bin\Debug\net7.0\Delegates.exe
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\bin\Debug\net7.0\Delegates.deps.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\bin\Debug\net7.0\Delegates.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\bin\Debug\net7.0\Delegates.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\bin\Debug\net7.0\Delegates.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\obj\Debug\net7.0\Delegates.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\obj\Debug\net7.0\refint\Delegates.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\obj\Debug\net7.0\Delegates.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\obj\Debug\net7.0\Delegates.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Delegates\Delegates\obj\Debug\net7.0\ref\Delegates.dll
