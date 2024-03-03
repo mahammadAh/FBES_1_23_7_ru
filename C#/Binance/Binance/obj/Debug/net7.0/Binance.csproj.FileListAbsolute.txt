@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\bin\Debug\net7.0\Binance.exe
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\bin\Debug\net7.0\Binance.deps.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\bin\Debug\net7.0\Binance.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\bin\Debug\net7.0\Binance.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\bin\Debug\net7.0\Binance.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\obj\Debug\net7.0\Binance.csproj.AssemblyReference.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\obj\Debug\net7.0\Binance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\obj\Debug\net7.0\Binance.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\obj\Debug\net7.0\Binance.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\obj\Debug\net7.0\Binance.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\obj\Debug\net7.0\Binance.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\obj\Debug\net7.0\refint\Binance.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\obj\Debug\net7.0\Binance.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\obj\Debug\net7.0\Binance.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Binance\Binance\obj\Debug\net7.0\ref\Binance.dll
