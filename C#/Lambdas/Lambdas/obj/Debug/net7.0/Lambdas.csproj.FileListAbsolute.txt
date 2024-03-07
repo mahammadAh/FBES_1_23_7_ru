@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\obj\Debug\net7.0\Lambdas.csproj.AssemblyReference.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\obj\Debug\net7.0\Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\obj\Debug\net7.0\Lambdas.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\obj\Debug\net7.0\Lambdas.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\obj\Debug\net7.0\Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\bin\Debug\net7.0\Lambdas.exe
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\bin\Debug\net7.0\Lambdas.deps.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\bin\Debug\net7.0\Lambdas.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\bin\Debug\net7.0\Lambdas.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\bin\Debug\net7.0\Lambdas.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\obj\Debug\net7.0\Lambdas.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\obj\Debug\net7.0\refint\Lambdas.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\obj\Debug\net7.0\Lambdas.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\obj\Debug\net7.0\Lambdas.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Lambdas\Lambdas\obj\Debug\net7.0\ref\Lambdas.dll
