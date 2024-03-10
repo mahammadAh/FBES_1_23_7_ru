@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\bin\Debug\net7.0\Serialization.exe
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\bin\Debug\net7.0\Serialization.deps.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\bin\Debug\net7.0\Serialization.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\bin\Debug\net7.0\Serialization.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\bin\Debug\net7.0\Serialization.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\obj\Debug\net7.0\Serialization.csproj.AssemblyReference.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\obj\Debug\net7.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\obj\Debug\net7.0\Serialization.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\obj\Debug\net7.0\Serialization.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\obj\Debug\net7.0\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\obj\Debug\net7.0\Serialization.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\obj\Debug\net7.0\refint\Serialization.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\obj\Debug\net7.0\Serialization.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\obj\Debug\net7.0\Serialization.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\Serialization\Serialization\obj\Debug\net7.0\ref\Serialization.dll
