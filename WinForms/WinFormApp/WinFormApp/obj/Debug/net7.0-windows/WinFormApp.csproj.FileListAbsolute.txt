@@ -1,0 +1,17 @@
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\bin\Debug\net7.0-windows\WinFormApp.exe
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\bin\Debug\net7.0-windows\WinFormApp.deps.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\bin\Debug\net7.0-windows\WinFormApp.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\bin\Debug\net7.0-windows\WinFormApp.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\bin\Debug\net7.0-windows\WinFormApp.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\obj\Debug\net7.0-windows\WinFormApp.csproj.AssemblyReference.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\obj\Debug\net7.0-windows\WinFormApp.Form1.resources
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\obj\Debug\net7.0-windows\WinFormApp.csproj.GenerateResource.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\obj\Debug\net7.0-windows\WinFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\obj\Debug\net7.0-windows\WinFormApp.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\obj\Debug\net7.0-windows\WinFormApp.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\obj\Debug\net7.0-windows\WinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\obj\Debug\net7.0-windows\WinFormApp.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\obj\Debug\net7.0-windows\refint\WinFormApp.dll
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\obj\Debug\net7.0-windows\WinFormApp.pdb
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\obj\Debug\net7.0-windows\WinFormApp.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\CODE\FBES_1_23_7_ru\C#\WinFormApp\WinFormApp\obj\Debug\net7.0-windows\ref\WinFormApp.dll
