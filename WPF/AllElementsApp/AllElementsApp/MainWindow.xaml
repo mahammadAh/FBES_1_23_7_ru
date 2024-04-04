@@ -1,0 +1,199 @@
+﻿<Window x:Class="AllElementsApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:AllElementsApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="300">
+
+    <!--<StackPanel>-->
+    <!--<Menu>
+            <MenuItem Header="File">
+                <MenuItem Header="Save"></MenuItem>
+                <MenuItem Header="Save As...">
+                    <MenuItem Header="Location"></MenuItem>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Tools"></MenuItem>
+            <MenuItem Header="View"></MenuItem>
+        </Menu>
+
+        <Button>Click</Button>
+        <TextBox>Hello world</TextBox>
+        <Calendar></Calendar>
+        <DatePicker></DatePicker>
+        <Label>Hello World</Label>
+        <PasswordBox></PasswordBox>-->
+
+    <!--<Image  Source="newCat.jpg"></Image>-->
+
+    <!--</StackPanel>-->
+
+
+    <!--<Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+    </Grid>-->
+
+
+    <!--<StackPanel Orientation="Horizontal">
+        <Button>Click1</Button>
+        <Button Height="50">Click2</Button>
+        <Button>Click3</Button>
+    </StackPanel>-->
+
+    <!--<GroupBox>
+        
+    </GroupBox>-->
+
+    <!--<DockPanel>
+        <Button DockPanel.Dock="bottom">bottom1</Button>
+        <Button DockPanel.Dock="top">bottom2</Button>
+        <Button DockPanel.Dock="left">bottom2</Button>
+        <Button DockPanel.Dock="right">bottom2</Button>
+        <Button>bottom2</Button>
+        <StackPanel>
+            <Button>1</Button>
+            <Button>1</Button>
+            <Button>1</Button>
+            <Button>1</Button>
+        </StackPanel>
+    </DockPanel>-->
+
+    <!--<WrapPanel Orientation="v">
+        <Button>Buttom1</Button>
+        <Button>Buttom1</Button>
+        <Button>Buttom1</Button>
+        <Button>Buttom1</Button>
+        <Button>Buttom1</Button>
+        <Button>Buttom1</Button>
+        <Button>Buttom1</Button>
+        <Button>Buttom1</Button>
+        <Button>Buttom1</Button>
+        <Button>Buttom1</Button>
+        <Button>Buttom1</Button>
+        
+    </WrapPanel>-->
+
+
+    <!--<Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <GridSplitter Grid.Column="1"></GridSplitter>
+    </Grid>-->
+
+
+    <!--<Canvas>
+        <Button Canvas.Bottom="150" Canvas.Left="90">Click1</Button>
+    </Canvas>-->
+    <!--<StackPanel>
+        <Button 
+            FontSize="25" 
+            FontFamily="Consolas" 
+            FontWeight="UltraBold" 
+            FontStyle="Italic" >
+            <Button.Background>
+                Yellow
+            </Button.Background>
+            
+            Button 1
+        </Button>
+        
+        <Button FontSize="25"  Foreground="#00FF00" >
+            <Button.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="Red"></GradientStop>
+                    <GradientStop Color="Blue" Offset="1"></GradientStop>
+                </LinearGradientBrush>
+            </Button.Background>
+            Button 2
+        </Button>
+
+
+        <Button FontSize="50">
+            <Button.Foreground>
+                <ImageBrush Stretch="UniformToFill">
+                    <ImageBrush.ImageSource>newCat.jpg</ImageBrush.ImageSource>
+                </ImageBrush>
+            </Button.Foreground>
+            Button 3</Button>
+    </StackPanel>-->
+
+    <!--<Window.Resources>
+        <Style TargetType="Button" x:Key="myStyle">
+            <Setter Property="FontSize"  Value="25"/>
+            <Setter Property="FontFamily"  Value="Consolas"/>
+            <Setter Property="FontWeight"  Value="UltraBold"/>
+            <Setter Property="FontStyle"  Value="Italic"/>
+            <Setter Property="Background" Value="Red"
+        </Style>
+    </Window.Resources>
+    
+    
+    <StackPanel>
+        <Button Style="{StaticResource myStyle}" Background="Yellow">Button 1</Button>
+
+        <Button>Button 2</Button>
+
+        <Button Style="{StaticResource myStyle}">Button 3</Button>
+    </StackPanel>-->
+
+
+    <!--<StackPanel>
+        <Button Click="OnClickRedButton" Name="buttonRed">Red</Button>
+
+        <Button Click="OnClickGreenButton" Name="buttonGreen">Green</Button>
+
+        <Button Click="OnClickBlueButton" Name="buttonBlue">Blue</Button>
+    </StackPanel>-->
+    
+    
+    <!--<StackPanel>
+        <ComboBox SelectedIndex="2">
+            <ComboBoxItem>One</ComboBoxItem>
+            <ComboBoxItem>Two</ComboBoxItem>
+            <ComboBoxItem>Three</ComboBoxItem>
+        </ComboBox>
+    </StackPanel>-->
+
+
+    
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition  Height="2.5*"></RowDefinition>
+            <RowDefinition  Height="0.2*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0">
+                <Label FontSize="11">Name :</Label>
+                <TextBox Name="TextBoxName"></TextBox>
+                <Label  FontSize="11">Number :</Label>
+                <TextBox Name="TextBoxNumber"></TextBox>
+            </StackPanel>
+
+            <ListBox Grid.Row="1" Name="ListBoxContacts"></ListBox>
+
+        <Button Grid.Row="2" DockPanel.Dock="Bottom" Click="Button_Click">Save</Button>
+    </Grid>
+
+
+      
+        
+ 
+  
+
+</Window>

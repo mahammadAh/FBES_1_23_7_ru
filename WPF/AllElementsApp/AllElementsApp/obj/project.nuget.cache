@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wv0cCAdK1U8K9XASnkyDPwUnqA6ylHX1yEJpB7HHsJt6O3RsrZMup9M0yJ/pw0HHYTolFGArE3ktQLxaIsQZKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmadov_m\\Desktop\\CODE\\FBES_1_23_7_ru\\WPF\\AllElementsApp\\AllElementsApp\\AllElementsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmadov_m\\.nuget\\packages\\extended.wpf.toolkit\\4.6.0\\extended.wpf.toolkit.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
