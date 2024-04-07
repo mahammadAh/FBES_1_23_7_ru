@@ -1,0 +1,24 @@
+﻿<Window x:Class="DataBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataBinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="302">
+    <StackPanel>
+        <Label>Text Box 1: </Label>
+        <TextBox FontSize ="{Binding Size}" Text="{Binding DataFromTextBox , UpdateSourceTrigger=PropertyChanged}" ></TextBox>
+        <Label>Text Box 2:</Label>
+        <TextBox  FontSize ="{Binding Size}" Text="{Binding DataFromTextBox}"></TextBox>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Column="0" Click="SizeIncrease">size +</Button>
+            <Button Grid.Column="1"  Click="SizeDicrease">size -</Button>
+        </Grid>
+    </StackPanel>
+</Window>
