@@ -1,0 +1,42 @@
+﻿<Window x:Class="CommandWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CommandWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="294" Name="NotesApp">
+    
+    
+    <!--<Window.Resources>
+        <DataTemplate x:Key="NotesStyle">
+            <DockPanel HorizontalAlignment="Stretch">
+                <Label Content="{Binding isDone}" DockPanel.Dock="Right" Background="Red"></Label>
+                <Label Content="{Binding text}" Background="Green"></Label>
+            </DockPanel>
+        </DataTemplate>
+    </Window.Resources>-->
+    
+    
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="0.1*"></RowDefinition>
+            <RowDefinition Height="0.2*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <ListBox Grid.Row="0" SelectedItem="{Binding SelectedNote}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                <DockPanel>
+                        <Button Content="{Binding Notes.isDone , ElementName=NotesApp}" DockPanel.Dock="Right" Command="{Binding ButtonIsDoneCommand}"></Button>
+                        <Label Content="{Binding Notes.text , ElementName=NotesApp}" ></Label>
+                </DockPanel>
+            </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <TextBox Grid.Row="1" FontSize="20" Text="{Binding NoteText, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Button Grid.Row="2" FontSize="30" Command="{Binding ButtonAddCommnad}">Add</Button>
+    </Grid>
+</Window>
