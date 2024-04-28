@@ -54,14 +54,12 @@ namespace WPFNavigation.ViewModels
                         else if (param == "Second")
                         {
                             CurrentScreen = userControls["Second"];
-                            IMyMessenger myMessenger = userControls["Second"] as IMyMessenger;
-                            myMessenger.GetMessage();
+                       
                         }
                         else if(param == "Third")
                         {
                             CurrentScreen = userControls["Third"];
-                            IMyMessenger myMessenger = userControls["Third"] as IMyMessenger;
-                            myMessenger.GetMessage();
+                           
                         }
                     }
                     );

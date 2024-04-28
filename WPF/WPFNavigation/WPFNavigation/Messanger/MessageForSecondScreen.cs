@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace WPFNavigation.Messanger
 {
-    internal interface IMyMessenger
+    public class MessageForSecondScreen
     {
-        public void GetMessage();
+        public string Text { get; set; }
     }
 }

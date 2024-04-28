@@ -10,7 +10,7 @@ using WPFNavigation.Messanger;
 
 namespace WPFNavigation.ViewModels
 {
-    public class SecondScreenViewModel : ViewModelBase , IMyMessenger
+    public class SecondScreenViewModel : ViewModelBase 
     {
 
 
@@ -22,16 +22,16 @@ namespace WPFNavigation.ViewModels
             set { Set(ref labelText, value); }
         }
 
-
+        public SecondScreenViewModel()
+        {
+            Messenger.Default.Register<MessageForSecondScreen>(this,
+                      message =>
+                      {
+                          LabelText = "Second screen: " + message.Text;
+                      });
+        }
        
 
-        public void GetMessage()
-        {
-            Messenger.Default.Register<string>(this,
-                         message =>
-                         {
-                             LabelText = "Received: " + message;
-                         });
-        }
+    
     }
 }

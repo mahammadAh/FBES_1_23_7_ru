@@ -9,7 +9,7 @@ using WPFNavigation.Messanger;
 
 namespace WPFNavigation.ViewModels
 {
-    public class ThirdScreenViewModel : ViewModelBase ,IMyMessenger
+    public class ThirdScreenViewModel : ViewModelBase 
     {
         private string labelText;
 
@@ -19,16 +19,16 @@ namespace WPFNavigation.ViewModels
             set { Set(ref labelText, value); }
         }
 
-
-
-
-        public void GetMessage()
+        public ThirdScreenViewModel()
         {
-            Messenger.Default.Register<string>(this,
-                         message =>
-                         {
-                             LabelText = "Received: " + message;
-                         });
+            Messenger.Default.Register<MessageForThirdScreen>(this,
+                      message =>
+                      {
+                          LabelText = "Third Screen : " + message.Text;
+                      });
         }
+
+
+  
     }
 }

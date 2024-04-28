@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls;
+using WPFNavigation.Messanger;
 
 namespace WPFNavigation.ViewModels
 { 
@@ -39,11 +40,11 @@ namespace WPFNavigation.ViewModels
                     {
                         if(param == "Second")
                         {
-                            Messenger.Default.Send<string>(Text);
+                            Messenger.Default.Send<MessageForSecondScreen>(new MessageForSecondScreen { Text = text});
                         }
                         else if (param == "Third")
                         {
-                            Messenger.Default.Send<string>(Text);
+                            Messenger.Default.Send<MessageForThirdScreen>(new MessageForThirdScreen { Text = text });
                         }
                 
                     }
