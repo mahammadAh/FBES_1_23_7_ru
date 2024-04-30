@@ -1,4 +1,5 @@
 ﻿using GalaSoft.MvvmLight;
+using GalaSoft.MvvmLight.CommandWpf;
 using GalaSoft.MvvmLight.Messaging;
 using System;
 using System.Collections.Generic;
@@ -6,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using WPFNavigation.Messanger;
+using WPFNavigation.Services;
 
 namespace WPFNavigation.ViewModels
 {
@@ -19,16 +21,47 @@ namespace WPFNavigation.ViewModels
             set { Set(ref labelText, value); }
         }
 
-        public ThirdScreenViewModel()
+        public ViewModelLocator NavigationServiceLocator { get; set; }
+
+
+        public INavigationService navigationService { get; set; }
+
+        public ThirdScreenViewModel(INavigationService navigationService)
         {
-            Messenger.Default.Register<MessageForThirdScreen>(this,
-                      message =>
-                      {
-                          LabelText = "Third Screen : " + message.Text;
-                      });
+            this.navigationService = navigationService;
+
+
         }
 
 
-  
+        private RelayCommand<string> changeScreens;
+
+        public RelayCommand<string> ChangeScreens
+        {
+            get
+            {
+                return changeScreens ?? new RelayCommand<string>(
+                    param =>
+                    {
+                        if (param == "First")
+                        {
+                            navigationService.Navigate("First");
+
+
+                        }
+                        else if (param == "Second")
+                        {
+                            navigationService.Navigate("Second");
+
+                        }
+                    }
+                    );
+            }
+
+        }
+
+
+
+
     }
 }

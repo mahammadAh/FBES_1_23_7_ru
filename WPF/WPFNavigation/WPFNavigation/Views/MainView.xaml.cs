@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using WPFNavigation.Services;
 using WPFNavigation.ViewModels;
 
 namespace WPFNavigation.Views
@@ -23,7 +24,6 @@ namespace WPFNavigation.Views
         public MainView()
         {
             InitializeComponent();
-            DataContext = new MainViewModel();
         }
     }
 }

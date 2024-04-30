@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls;
 using WPFNavigation.Messanger;
+using WPFNavigation.Services;
 
 namespace WPFNavigation.ViewModels
 { 
@@ -23,30 +24,37 @@ namespace WPFNavigation.ViewModels
 		}
 
 
+        public INavigationService navigationService { get; set; }
+
+        public FirstScreenViewModel(INavigationService navigationService)
+        {
+            this.navigationService = navigationService;
+        }
 
 
 
 
 
+        private RelayCommand<string> changeScreens;
 
-        private RelayCommand<string> sendTextCommnad;
-
-        public RelayCommand<string> SendTextCommnad
+        public RelayCommand<string> ChangeScreens
         {
             get
             {
-                return sendTextCommnad ?? new RelayCommand<string>(
-                   param =>
+                return changeScreens ?? new RelayCommand<string>(
+                    param =>
                     {
-                        if(param == "Second")
+                         if (param == "Second")
                         {
-                            Messenger.Default.Send<MessageForSecondScreen>(new MessageForSecondScreen { Text = text});
+                            navigationService.Navigate("Second");
+
+
                         }
                         else if (param == "Third")
                         {
-                            Messenger.Default.Send<MessageForThirdScreen>(new MessageForThirdScreen { Text = text });
+                            navigationService.Navigate("Third");
+
                         }
-                
                     }
                     );
             }

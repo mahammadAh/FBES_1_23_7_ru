@@ -8,6 +8,8 @@ using System.Threading.Tasks;
 using System.Windows.Controls;
 using WPFNavigation.Messanger;
 using WPFNavigation.Views;
+using WPFNavigation.Services;
+using GalaSoft.MvvmLight.Messaging;
 
 namespace WPFNavigation.ViewModels
 {
@@ -24,51 +26,21 @@ namespace WPFNavigation.ViewModels
         }
 
 
-        private Dictionary<string, ViewModelBase> userControls = new Dictionary<string, ViewModelBase>();
 
-        public MainViewModel()
+
+        public INavigationService navigationService { get; set; }
+
+        public MainViewModel(INavigationService navigationService)
         {
-            userControls.Add("First", new FirstScreenViewModel());
-            userControls.Add("Second", new SecondScreenViewModel());
-            userControls.Add("Third", new ThirdScreenViewModel());
-        }
+            this.navigationService = navigationService;
 
-
-        private RelayCommand<string> changeScreens;
-
-        public RelayCommand<string> ChangeScreens
-        {
-            get
-            {
-                return changeScreens ?? new RelayCommand<string>(
-                    param =>
-                    {
-                        if (param == "First")
-                        {
-
-                            CurrentScreen = userControls["First"];
-                
-
-
-                        }
-                        else if (param == "Second")
-                        {
-                            CurrentScreen = userControls["Second"];
-                       
-                        }
-                        else if(param == "Third")
-                        {
-                            CurrentScreen = userControls["Third"];
-                           
-                        }
-                    }
-                    );
-            }
+            Messenger.Default.Register<ViewModelBase>(this,
+                          currentScreen =>
+                          {
+                              CurrentScreen = currentScreen;
+                          });
 
         }
-
-
-
 
 
 
