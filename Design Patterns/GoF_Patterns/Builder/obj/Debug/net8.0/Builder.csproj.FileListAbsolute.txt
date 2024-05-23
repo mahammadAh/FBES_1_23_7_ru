@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\bin\Debug\net8.0\Builder.exe
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\bin\Debug\net8.0\Builder.deps.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\bin\Debug\net8.0\Builder.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\bin\Debug\net8.0\Builder.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\obj\Debug\net8.0\Builder.sourcelink.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\obj\Debug\net8.0\Builder.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\obj\Debug\net8.0\refint\Builder.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\obj\Debug\net8.0\Builder.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Builder\obj\Debug\net8.0\ref\Builder.dll
