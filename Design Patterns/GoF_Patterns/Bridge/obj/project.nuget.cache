@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IoW61x7wVTranjDB471pLkCXWMEMCba9SEM/E/Mwwmd3MCafW/EAZ9DM2Hr0KlQ5ho4OGcLcqqwXAPAUV0wbsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Bridge\\Bridge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmadov_m\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
