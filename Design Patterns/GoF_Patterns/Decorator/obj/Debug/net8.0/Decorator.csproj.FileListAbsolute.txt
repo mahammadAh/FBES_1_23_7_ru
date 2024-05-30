@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\bin\Debug\net8.0\Decorator.exe
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\bin\Debug\net8.0\Decorator.deps.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\bin\Debug\net8.0\Decorator.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\bin\Debug\net8.0\Decorator.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\bin\Debug\net8.0\Decorator.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\obj\Debug\net8.0\Decorator.sourcelink.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\obj\Debug\net8.0\Decorator.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\obj\Debug\net8.0\refint\Decorator.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\obj\Debug\net8.0\Decorator.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\obj\Debug\net8.0\Decorator.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Decorator\obj\Debug\net8.0\ref\Decorator.dll
