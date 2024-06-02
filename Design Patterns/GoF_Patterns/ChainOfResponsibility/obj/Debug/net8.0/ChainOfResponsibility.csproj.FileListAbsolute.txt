@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.exe
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.deps.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.sourcelink.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\obj\Debug\net8.0\refint\ChainOfResponsibility.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\ChainOfResponsibility\obj\Debug\net8.0\ref\ChainOfResponsibility.dll
