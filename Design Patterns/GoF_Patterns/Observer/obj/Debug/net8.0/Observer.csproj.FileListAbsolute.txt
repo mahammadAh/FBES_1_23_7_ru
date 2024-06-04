@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\bin\Debug\net8.0\Observer.exe
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\bin\Debug\net8.0\Observer.deps.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\bin\Debug\net8.0\Observer.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\bin\Debug\net8.0\Observer.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\bin\Debug\net8.0\Observer.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\obj\Debug\net8.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\obj\Debug\net8.0\Observer.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\obj\Debug\net8.0\Observer.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\obj\Debug\net8.0\Observer.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\obj\Debug\net8.0\Observer.sourcelink.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\obj\Debug\net8.0\Observer.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\obj\Debug\net8.0\refint\Observer.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\obj\Debug\net8.0\Observer.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\obj\Debug\net8.0\Observer.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Observer\obj\Debug\net8.0\ref\Observer.dll

@@ -27,13 +27,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flyweight", "Flyweight\Flyw
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Proxy\Proxy.csproj", "{D66EF4DA-B590-4443-8094-29C7F7E95C98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{ED507A67-B339-4315-B1B0-7D98ECEED856}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{ED507A67-B339-4315-B1B0-7D98ECEED856}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{673BF6E6-32CA-48C8-9CDC-6683F01ADA9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator", "Mediator\Mediator.csproj", "{673BF6E6-32CA-48C8-9CDC-6683F01ADA9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{EE284CC0-0B7A-497A-8E15-DC2371F48ED4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "Iterator\Iterator.csproj", "{EE284CC0-0B7A-497A-8E15-DC2371F48ED4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{2644318E-D151-4583-9729-74D00DC04045}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "Command\Command.csproj", "{2644318E-D151-4583-9729-74D00DC04045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{01DEF21B-B922-4885-BF5C-EEA617FBD9B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{1DEFDC19-AE21-4B73-85E7-D06549C304D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{10845953-F06B-4760-9966-073093C2C2FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{89EC0C34-E5CD-494E-BD52-8A95387838E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +113,22 @@ Global
 		{2644318E-D151-4583-9729-74D00DC04045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2644318E-D151-4583-9729-74D00DC04045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2644318E-D151-4583-9729-74D00DC04045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01DEF21B-B922-4885-BF5C-EEA617FBD9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DEF21B-B922-4885-BF5C-EEA617FBD9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DEF21B-B922-4885-BF5C-EEA617FBD9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DEF21B-B922-4885-BF5C-EEA617FBD9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DEFDC19-AE21-4B73-85E7-D06549C304D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEFDC19-AE21-4B73-85E7-D06549C304D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEFDC19-AE21-4B73-85E7-D06549C304D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEFDC19-AE21-4B73-85E7-D06549C304D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10845953-F06B-4760-9966-073093C2C2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10845953-F06B-4760-9966-073093C2C2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10845953-F06B-4760-9966-073093C2C2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10845953-F06B-4760-9966-073093C2C2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EC0C34-E5CD-494E-BD52-8A95387838E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EC0C34-E5CD-494E-BD52-8A95387838E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EC0C34-E5CD-494E-BD52-8A95387838E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EC0C34-E5CD-494E-BD52-8A95387838E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
