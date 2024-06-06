@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\bin\Debug\net8.0\Visitor.exe
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\bin\Debug\net8.0\Visitor.deps.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\bin\Debug\net8.0\Visitor.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\bin\Debug\net8.0\Visitor.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\bin\Debug\net8.0\Visitor.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\obj\Debug\net8.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\obj\Debug\net8.0\Visitor.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\obj\Debug\net8.0\Visitor.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\obj\Debug\net8.0\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\obj\Debug\net8.0\Visitor.sourcelink.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\obj\Debug\net8.0\Visitor.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\obj\Debug\net8.0\refint\Visitor.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\obj\Debug\net8.0\Visitor.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\obj\Debug\net8.0\Visitor.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\Design Patterns\GoF_Patterns\Visitor\obj\Debug\net8.0\ref\Visitor.dll

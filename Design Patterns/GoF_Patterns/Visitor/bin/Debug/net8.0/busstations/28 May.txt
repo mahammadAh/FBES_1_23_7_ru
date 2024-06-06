@@ -1,0 +1,4 @@
+Bus station
+Name: 28 May
+Coordinates: 15.1, 27.5
+Bus numbers: 26 48 55 96 

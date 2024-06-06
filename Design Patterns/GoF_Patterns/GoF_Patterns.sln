@@ -35,13 +35,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "Iterator\Iterat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "Command\Command.csproj", "{2644318E-D151-4583-9729-74D00DC04045}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{01DEF21B-B922-4885-BF5C-EEA617FBD9B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "Observer\Observer.csproj", "{01DEF21B-B922-4885-BF5C-EEA617FBD9B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{1DEFDC19-AE21-4B73-85E7-D06549C304D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento", "Memento\Memento.csproj", "{1DEFDC19-AE21-4B73-85E7-D06549C304D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{10845953-F06B-4760-9966-073093C2C2FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy.csproj", "{10845953-F06B-4760-9966-073093C2C2FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{89EC0C34-E5CD-494E-BD52-8A95387838E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "State\State.csproj", "{89EC0C34-E5CD-494E-BD52-8A95387838E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{91D4EE3C-2C97-446D-84BF-9A83AD48627B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{89EC0C34-E5CD-494E-BD52-8A95387838E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89EC0C34-E5CD-494E-BD52-8A95387838E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89EC0C34-E5CD-494E-BD52-8A95387838E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D4EE3C-2C97-446D-84BF-9A83AD48627B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D4EE3C-2C97-446D-84BF-9A83AD48627B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D4EE3C-2C97-446D-84BF-9A83AD48627B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D4EE3C-2C97-446D-84BF-9A83AD48627B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

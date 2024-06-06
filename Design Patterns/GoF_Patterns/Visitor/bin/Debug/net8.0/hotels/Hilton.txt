@@ -1,0 +1,4 @@
+Hotel
+Name: Hilton
+Coordinates: 34.4, 27.8
+Stars: 5

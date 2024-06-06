@@ -3,107 +3,139 @@
   "WorkspaceRootPath": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{01DEF21B-B922-4885-BF5C-EEA617FBD9B0}|Observer\\Observer.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DEF21B-B922-4885-BF5C-EEA617FBD9B0}|Observer\\Observer.csproj|solutionrelative:observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE284CC0-0B7A-497A-8E15-DC2371F48ED4}|Iterator\\Iterator.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE284CC0-0B7A-497A-8E15-DC2371F48ED4}|Iterator\\Iterator.csproj|solutionrelative:iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED507A67-B339-4315-B1B0-7D98ECEED856}|ChainOfResponsibility\\ChainOfResponsibility.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED507A67-B339-4315-B1B0-7D98ECEED856}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2644318E-D151-4583-9729-74D00DC04045}|Command\\Command.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\command\\command.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2644318E-D151-4583-9729-74D00DC04045}|Command\\Command.csproj|solutionrelative:command\\command.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8EF605-02CE-42A3-A73C-CBA3AD0B592A}|Flyweight\\Flyweight.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\flyweight\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8EF605-02CE-42A3-A73C-CBA3AD0B592A}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8EF605-02CE-42A3-A73C-CBA3AD0B592A}|Flyweight\\Flyweight.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8EF605-02CE-42A3-A73C-CBA3AD0B592A}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BBAD51-3B1C-444C-BB5F-AEF6E57C09F3}|Facade\\Facade.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BBAD51-3B1C-444C-BB5F-AEF6E57C09F3}|Facade\\Facade.csproj|solutionrelative:facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BBAD51-3B1C-444C-BB5F-AEF6E57C09F3}|Facade\\Facade.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\facade\\savetojsonfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BBAD51-3B1C-444C-BB5F-AEF6E57C09F3}|Facade\\Facade.csproj|solutionrelative:facade\\savetojsonfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBC69DC-E95D-4BAF-AD65-641B2970203C}|Decorator\\Decorator.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBC69DC-E95D-4BAF-AD65-641B2970203C}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B267B73-33AF-408D-9EA9-027D006940D5}|Composite\\Composite.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B267B73-33AF-408D-9EA9-027D006940D5}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BD2655-3359-4FE6-83B0-35E81530B1B6}|Bridge\\Bridge.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BD2655-3359-4FE6-83B0-35E81530B1B6}|Bridge\\Bridge.csproj|solutionrelative:bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831DF9B9-1145-4E88-9E5F-C3827218D642}|Adapter\\Adapter.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831DF9B9-1145-4E88-9E5F-C3827218D642}|Adapter\\Adapter.csproj|solutionrelative:adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5726008-4F42-4E51-B525-77E1F8409E6B}|Builder\\Builder.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5726008-4F42-4E51-B525-77E1F8409E6B}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5726008-4F42-4E51-B525-77E1F8409E6B}|Builder\\Builder.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\builder\\characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5726008-4F42-4E51-B525-77E1F8409E6B}|Builder\\Builder.csproj|solutionrelative:builder\\characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C55BAF-8334-4BE1-83B5-50723697F3A2}|FactoryMethod\\FactoryMethod.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\factorymethod\\wizardsfactories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C55BAF-8334-4BE1-83B5-50723697F3A2}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\wizardsfactories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C55BAF-8334-4BE1-83B5-50723697F3A2}|FactoryMethod\\FactoryMethod.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\factorymethod\\wizzards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C55BAF-8334-4BE1-83B5-50723697F3A2}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\wizzards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31373F69-DA62-493E-B4C8-2EBE25ADEB16}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\abstractfactory\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31373F69-DA62-493E-B4C8-2EBE25ADEB16}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31373F69-DA62-493E-B4C8-2EBE25ADEB16}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\abstractfactory\\factories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31373F69-DA62-493E-B4C8-2EBE25ADEB16}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\factories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31373F69-DA62-493E-B4C8-2EBE25ADEB16}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31373F69-DA62-493E-B4C8-2EBE25ADEB16}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D4EE3C-2C97-446D-84BF-9A83AD48627B}|Visitor\\Visitor.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\visitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D4EE3C-2C97-446D-84BF-9A83AD48627B}|Visitor\\Visitor.csproj|solutionrelative:visitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89EC0C34-E5CD-494E-BD52-8A95387838E8}|State\\State.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89EC0C34-E5CD-494E-BD52-8A95387838E8}|State\\State.csproj|solutionrelative:state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10845953-F06B-4760-9966-073093C2C2FC}|Strategy\\Strategy.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10845953-F06B-4760-9966-073093C2C2FC}|Strategy\\Strategy.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10845953-F06B-4760-9966-073093C2C2FC}|Strategy\\Strategy.csproj|solutionrelative:strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7BBAD51-3B1C-444C-BB5F-AEF6E57C09F3}|Facade\\Facade.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7BBAD51-3B1C-444C-BB5F-AEF6E57C09F3}|Facade\\Facade.csproj|solutionrelative:facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DEFDC19-AE21-4B73-85E7-D06549C304D1}|Memento\\Memento.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DEFDC19-AE21-4B73-85E7-D06549C304D1}|Memento\\Memento.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DEFDC19-AE21-4B73-85E7-D06549C304D1}|Memento\\Memento.csproj|solutionrelative:memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{673BF6E6-32CA-48C8-9CDC-6683F01ADA9A}|Mediator\\Mediator.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{673BF6E6-32CA-48C8-9CDC-6683F01ADA9A}|Mediator\\Mediator.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{673BF6E6-32CA-48C8-9CDC-6683F01ADA9A}|Mediator\\Mediator.csproj|solutionrelative:mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE284CC0-0B7A-497A-8E15-DC2371F48ED4}|Iterator\\Iterator.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE284CC0-0B7A-497A-8E15-DC2371F48ED4}|Iterator\\Iterator.csproj|solutionrelative:iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01DEF21B-B922-4885-BF5C-EEA617FBD9B0}|Observer\\Observer.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01DEF21B-B922-4885-BF5C-EEA617FBD9B0}|Observer\\Observer.csproj|solutionrelative:observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B267B73-33AF-408D-9EA9-027D006940D5}|Composite\\Composite.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B267B73-33AF-408D-9EA9-027D006940D5}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2644318E-D151-4583-9729-74D00DC04045}|Command\\Command.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2644318E-D151-4583-9729-74D00DC04045}|Command\\Command.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2644318E-D151-4583-9729-74D00DC04045}|Command\\Command.csproj|solutionrelative:command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C8EF605-02CE-42A3-A73C-CBA3AD0B592A}|Flyweight\\Flyweight.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C8EF605-02CE-42A3-A73C-CBA3AD0B592A}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{673BF6E6-32CA-48C8-9CDC-6683F01ADA9A}|Mediator\\Mediator.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\mediator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{673BF6E6-32CA-48C8-9CDC-6683F01ADA9A}|Mediator\\Mediator.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\mediator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{673BF6E6-32CA-48C8-9CDC-6683F01ADA9A}|Mediator\\Mediator.csproj|solutionrelative:mediator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{673BF6E6-32CA-48C8-9CDC-6683F01ADA9A}|Mediator\\Mediator.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\mediator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{673BF6E6-32CA-48C8-9CDC-6683F01ADA9A}|Mediator\\Mediator.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\mediator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{673BF6E6-32CA-48C8-9CDC-6683F01ADA9A}|Mediator\\Mediator.csproj|solutionrelative:mediator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{673BF6E6-32CA-48C8-9CDC-6683F01ADA9A}|Mediator\\Mediator.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\mediator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{673BF6E6-32CA-48C8-9CDC-6683F01ADA9A}|Mediator\\Mediator.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\mediator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{673BF6E6-32CA-48C8-9CDC-6683F01ADA9A}|Mediator\\Mediator.csproj|solutionrelative:mediator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED507A67-B339-4315-B1B0-7D98ECEED856}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED507A67-B339-4315-B1B0-7D98ECEED856}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\proxy\\repositoryproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\proxy\\repositoryproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|solutionrelative:proxy\\repositoryproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\proxy\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\proxy\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|solutionrelative:proxy\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\proxy\\proxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\proxy\\proxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|solutionrelative:proxy\\proxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\proxy\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\proxy\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D66EF4DA-B590-4443-8094-29C7F7E95C98}|Proxy\\Proxy.csproj|solutionrelative:proxy\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C8EF605-02CE-42A3-A73C-CBA3AD0B592A}|Flyweight\\Flyweight.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\flyweight\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C8EF605-02CE-42A3-A73C-CBA3AD0B592A}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7BBAD51-3B1C-444C-BB5F-AEF6E57C09F3}|Facade\\Facade.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\facade\\savetojsonfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7BBAD51-3B1C-444C-BB5F-AEF6E57C09F3}|Facade\\Facade.csproj|solutionrelative:facade\\savetojsonfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BBC69DC-E95D-4BAF-AD65-641B2970203C}|Decorator\\Decorator.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BBC69DC-E95D-4BAF-AD65-641B2970203C}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5726008-4F42-4E51-B525-77E1F8409E6B}|Builder\\Builder.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5726008-4F42-4E51-B525-77E1F8409E6B}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96BD2655-3359-4FE6-83B0-35E81530B1B6}|Bridge\\Bridge.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96BD2655-3359-4FE6-83B0-35E81530B1B6}|Bridge\\Bridge.csproj|solutionrelative:bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{831DF9B9-1145-4E88-9E5F-C3827218D642}|Adapter\\Adapter.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{831DF9B9-1145-4E88-9E5F-C3827218D642}|Adapter\\Adapter.csproj|solutionrelative:adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5726008-4F42-4E51-B525-77E1F8409E6B}|Builder\\Builder.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\design patterns\\gof_patterns\\builder\\builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C5726008-4F42-4E51-B525-77E1F8409E6B}|Builder\\Builder.csproj|C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\builder\\builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C5726008-4F42-4E51-B525-77E1F8409E6B}|Builder\\Builder.csproj|solutionrelative:builder\\builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -114,11 +146,307 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Command",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Command\\Command.csproj",
+              "RelativeDocumentMoniker": "Command\\Command.csproj",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Command\\Command.csproj",
+              "RelativeToolTip": "Command\\Command.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T17:06:49.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Builder\\Program.cs",
+              "RelativeToolTip": "Builder\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:34:06.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "Adapter\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Adapter\\Program.cs",
+              "RelativeToolTip": "Adapter\\Program.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAIwJEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:33:59.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Bridge\\Program.cs",
+              "RelativeDocumentMoniker": "Bridge\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Bridge\\Program.cs",
+              "RelativeToolTip": "Bridge\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAzwEwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:36:04.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Composite\\Program.cs",
+              "RelativeDocumentMoniker": "Composite\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Composite\\Program.cs",
+              "RelativeToolTip": "Composite\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAkwB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:06:56.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:24:43.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Facade\\Program.cs",
+              "RelativeDocumentMoniker": "Facade\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Facade\\Program.cs",
+              "RelativeToolTip": "Facade\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wBgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:47:51.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveToJsonFacade.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Facade\\SaveToJsonFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\SaveToJsonFacade.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Facade\\SaveToJsonFacade.cs",
+              "RelativeToolTip": "Facade\\SaveToJsonFacade.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:57:05.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Flyweight\\Program.cs",
+              "RelativeDocumentMoniker": "Flyweight\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Flyweight\\Program.cs",
+              "RelativeToolTip": "Flyweight\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:09:09.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\ChainOfResponsibility\\Program.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\ChainOfResponsibility\\Program.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwEIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:36:33.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Iterator\\Program.cs",
+              "RelativeDocumentMoniker": "Iterator\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Iterator\\Program.cs",
+              "RelativeToolTip": "Iterator\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:41:54.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Observer\\Program.cs",
+              "RelativeDocumentMoniker": "Observer\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Observer\\Program.cs",
+              "RelativeToolTip": "Observer\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:30:53.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Characters.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Builder\\Characters.cs",
+              "RelativeDocumentMoniker": "Builder\\Characters.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Builder\\Characters.cs",
+              "RelativeToolTip": "Builder\\Characters.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAuwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:59:30.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WizardsFactories.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\FactoryMethod\\WizardsFactories.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\WizardsFactories.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\FactoryMethod\\WizardsFactories.cs",
+              "RelativeToolTip": "FactoryMethod\\WizardsFactories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:56:01.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Wizzards.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\FactoryMethod\\Wizzards.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Wizzards.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\FactoryMethod\\Wizzards.cs",
+              "RelativeToolTip": "FactoryMethod\\Wizzards.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwDQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:56:05.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Flyweight\\MovieService.cs",
+              "RelativeDocumentMoniker": "Flyweight\\MovieService.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Flyweight\\MovieService.cs",
+              "RelativeToolTip": "Flyweight\\MovieService.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAADwvzEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:42:26.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Units.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\AbstractFactory\\Units.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Units.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\AbstractFactory\\Units.cs",
+              "RelativeToolTip": "AbstractFactory\\Units.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswDkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:49:49.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Factories.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\AbstractFactory\\Factories.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Factories.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\AbstractFactory\\Factories.cs",
+              "RelativeToolTip": "AbstractFactory\\Factories.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:52:04.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\AbstractFactory\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\AbstractFactory\\Program.cs",
+              "RelativeToolTip": "AbstractFactory\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:52:01.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Visitor\\Program.cs",
+              "RelativeDocumentMoniker": "Visitor\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Visitor\\Program.cs",
+              "RelativeToolTip": "Visitor\\Program.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:08:32.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Mediator\\Form1.cs",
+              "RelativeDocumentMoniker": "Mediator\\Form1.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Mediator\\Form1.cs",
+              "RelativeToolTip": "Mediator\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:10:21.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Memento\\Program.cs",
+              "RelativeDocumentMoniker": "Memento\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Memento\\Program.cs",
+              "RelativeToolTip": "Memento\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:52:30.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Strategy\\Program.cs",
+              "RelativeDocumentMoniker": "Strategy\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Strategy\\Program.cs",
+              "RelativeToolTip": "Strategy\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwEAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:38:20.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\State\\Program.cs",
               "RelativeDocumentMoniker": "State\\Program.cs",
@@ -131,82 +459,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Strategy\\Program.cs",
-              "RelativeDocumentMoniker": "Strategy\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Strategy\\Program.cs",
-              "RelativeToolTip": "Strategy\\Program.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAYwEAAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T16:38:20.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Memento\\Program.cs",
-              "RelativeDocumentMoniker": "Memento\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Memento\\Program.cs",
-              "RelativeToolTip": "Memento\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAmwB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T15:52:30.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Iterator\\Program.cs",
-              "RelativeDocumentMoniker": "Iterator\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Iterator\\Program.cs",
-              "RelativeToolTip": "Iterator\\Program.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAzwD0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T16:41:54.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Mediator\\Form1.cs",
-              "RelativeDocumentMoniker": "Mediator\\Form1.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Mediator\\Form1.cs",
-              "RelativeToolTip": "Mediator\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T16:10:21.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Mediator\\Form1.cs",
               "RelativeDocumentMoniker": "Mediator\\Form1.cs",
               "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Mediator\\Form1.cs [Design]",
               "RelativeToolTip": "Mediator\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T16:08:14.201Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-02T16:08:14.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\ChainOfResponsibility\\Program.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibility\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\ChainOfResponsibility\\Program.cs",
-              "RelativeToolTip": "ChainOfResponsibility\\Program.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAqwCUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T15:36:33.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "RepositoryProxy.cs",
               "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Proxy\\RepositoryProxy.cs",
               "RelativeDocumentMoniker": "Proxy\\RepositoryProxy.cs",
@@ -218,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 32,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Proxy\\Logger.cs",
               "RelativeDocumentMoniker": "Proxy\\Logger.cs",
@@ -230,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "Proxy.csproj",
               "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Proxy\\Proxy.csproj",
               "RelativeDocumentMoniker": "Proxy\\Proxy.csproj",
@@ -238,11 +502,12 @@
               "RelativeToolTip": "Proxy\\Proxy.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-30T17:30:55.997Z"
+              "WhenOpened": "2024-05-30T17:30:55.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 30,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Proxy\\Repository.cs",
               "RelativeDocumentMoniker": "Proxy\\Repository.cs",
@@ -254,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Proxy\\Program.cs",
               "RelativeDocumentMoniker": "Proxy\\Program.cs",
@@ -266,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Mediator\\Program.cs",
               "RelativeDocumentMoniker": "Mediator\\Program.cs",
@@ -274,38 +539,11 @@
               "RelativeToolTip": "Mediator\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T16:42:04.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T16:42:04.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Facade\\Program.cs",
-              "RelativeDocumentMoniker": "Facade\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Facade\\Program.cs",
-              "RelativeToolTip": "Facade\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T15:47:51.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Observer\\Program.cs",
-              "RelativeDocumentMoniker": "Observer\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Observer\\Program.cs",
-              "RelativeToolTip": "Observer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T15:30:53.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Command\\Program.cs",
               "RelativeDocumentMoniker": "Command\\Program.cs",
@@ -313,25 +551,11 @@
               "RelativeToolTip": "Command\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAowBAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T17:00:34.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T17:00:34.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Composite\\Program.cs",
-              "RelativeDocumentMoniker": "Composite\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Composite\\Program.cs",
-              "RelativeToolTip": "Composite\\Program.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAiwD8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T17:06:56.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Mediator\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Mediator\\Form1.Designer.cs",
@@ -343,79 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Flyweight\\MovieService.cs",
-              "RelativeDocumentMoniker": "Flyweight\\MovieService.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Flyweight\\MovieService.cs",
-              "RelativeToolTip": "Flyweight\\MovieService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBMAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T16:42:26.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Flyweight\\Program.cs",
-              "RelativeDocumentMoniker": "Flyweight\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Flyweight\\Program.cs",
-              "RelativeToolTip": "Flyweight\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T16:09:09.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SaveToJsonFacade.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Facade\\SaveToJsonFacade.cs",
-              "RelativeDocumentMoniker": "Facade\\SaveToJsonFacade.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Facade\\SaveToJsonFacade.cs",
-              "RelativeToolTip": "Facade\\SaveToJsonFacade.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAwAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T15:57:05.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Decorator\\Program.cs",
-              "RelativeDocumentMoniker": "Decorator\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Decorator\\Program.cs",
-              "RelativeToolTip": "Decorator\\Program.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAIBJwEUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T15:24:43.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Bridge\\Program.cs",
-              "RelativeDocumentMoniker": "Bridge\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Bridge\\Program.cs",
-              "RelativeToolTip": "Bridge\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:36:04.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Builder\\Program.cs",
-              "RelativeDocumentMoniker": "Builder\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Builder\\Program.cs",
-              "RelativeToolTip": "Builder\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T15:34:06.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "Builder.csproj",
               "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Builder\\Builder.csproj",
               "RelativeDocumentMoniker": "Builder\\Builder.csproj",
@@ -423,19 +575,8 @@
               "RelativeToolTip": "Builder\\Builder.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-26T15:34:04.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Adapter\\Program.cs",
-              "RelativeDocumentMoniker": "Adapter\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\Design Patterns\\GoF_Patterns\\Adapter\\Program.cs",
-              "RelativeToolTip": "Adapter\\Program.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAowGUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T15:33:59.077Z"
+              "WhenOpened": "2024-05-26T15:34:04.539Z",
+              "EditorCaption": ""
             }
           ]
         }
