@@ -1,0 +1,73 @@
+USE Shop
+
+
+BEGIN TRANSACTION FirstTran
+
+BEGIN TRY
+
+INSERT INTO Product VALUES('Sprite',18,3,'100',0)
+
+--SAVE TRANSACTION SavePoint1
+
+INSERT INTO Product VALUES('Pringles',18,2,'150',0)
+
+--SAVE TRANSACTION SavePoint2
+
+INSERT INTO Product VALUES('Kit-Kat',30,3,'100',0)
+
+END TRY
+
+BEGIN CATCH
+
+if @@error = 547
+ ROLLBACK
+
+END CATCH
+
+COMMIT TRANSACTION 
+
+SELECT * FROM Product
+
+
+
+BEGIN TRANSACTION FirstTran
+
+INSERT INTO Product VALUES('Sprite',18,3,'100',0)
+
+INSERT INTO Product VALUES('Pringles',18,2,'150',0)
+
+INSERT INTO Product VALUES('Kit-Kat',13,3,'100',0)
+
+IF (SELECT COUNT(Id) FROM Product) > 100
+BEGIN
+ROLLBACK TRANSACTION
+END
+COMMIT TRANSACTION 
+
+
+
+SELECT * FROM Product
+
+
+
+BEGIN TRANSACTION InsertData1
+
+INSERT INTO Customer VALUES('Anvar','Sadiq','Baku','Azerbaijan','0556467738')
+
+SAVE TRANSACTION SavePoint1
+
+INSERT INTO Customer VALUES('Elnur','Aliyev','Berlin','Germany','0998789494')
+
+INSERT INTO Customer VALUES('David','Sladkov','Texas','USA','0507738484')
+
+IF(SELECT COUNT(FirstName) FROM Customer ) > 92 
+BEGIN
+ROLLBACK SavePoint1
+END
+COMMIT TRANSACTION
+
+
+SELECT * FROM Customer
+
+
+

@@ -1,0 +1,51 @@
+CREATE TABLE Accounts (
+[Name] VARCHAR(50),
+PAN VARCHAR(16),
+Amount int,
+Limit int
+)
+
+
+
+INSERT INTO Accounts
+VALUES 
+('Anvar','5673883293021122',1000,2000),
+('Nazim','6293042367348214',1400,2000),
+('David','6783993439950435',600,2000)
+
+
+CREATE PROCEDURE CardToCard 
+@from VARCHAR(16),
+@to VARCHAR(16),
+@amount INT
+AS
+BEGIN
+	BEGIN TRANSACTION SendMoney
+
+	BEGIN TRY 
+	UPDATE Accounts
+	SET Amount = ((SELECT Amount FROM Accounts WHERE PAN = @from) - @amount )
+	WHERE PAN = @from
+
+    UPDATE Accounts
+	SET Amount = ((SELECT Amount FROM Accounts WHERE PAN = @to) + @amount )
+	WHERE PAN = @to
+	END TRY
+
+	BEGIN CATCH
+	ROLLBACK
+	END CATCH
+
+	IF (SELECT Amount FROM Accounts WHERE PAN = @to ) >  (SELECT Limit FROM Accounts WHERE PAN = @to )
+	BEGIN
+	ROLLBACK
+	END
+
+	COMMIT TRANSACTION
+END
+
+
+SELECT * FROM Accounts
+
+
+EXEC CardToCard '6783993439950435' ,'6293042367348214' , 2
