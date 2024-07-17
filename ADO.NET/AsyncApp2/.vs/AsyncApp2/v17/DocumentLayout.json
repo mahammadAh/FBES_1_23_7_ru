@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\AsyncApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFCEF69-87DA-474C-BDB0-EDBDC652AD15}|AsyncApp2\\AsyncApp2.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\asyncapp2\\asyncapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFCEF69-87DA-474C-BDB0-EDBDC652AD15}|AsyncApp2\\AsyncApp2.csproj|solutionrelative:asyncapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFCEF69-87DA-474C-BDB0-EDBDC652AD15}|AsyncApp2\\AsyncApp2.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\asyncapp2\\asyncapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EFCEF69-87DA-474C-BDB0-EDBDC652AD15}|AsyncApp2\\AsyncApp2.csproj|solutionrelative:asyncapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFCEF69-87DA-474C-BDB0-EDBDC652AD15}|AsyncApp2\\AsyncApp2.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\asyncapp2\\asyncapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2EFCEF69-87DA-474C-BDB0-EDBDC652AD15}|AsyncApp2\\AsyncApp2.csproj|solutionrelative:asyncapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\AsyncApp2\\AsyncApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "AsyncApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\AsyncApp2\\AsyncApp2\\Form1.cs",
+              "RelativeToolTip": "AsyncApp2\\Form1.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:10:54.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\AsyncApp2\\AsyncApp2\\App.config",
+              "RelativeDocumentMoniker": "AsyncApp2\\App.config",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\AsyncApp2\\AsyncApp2\\App.config",
+              "RelativeToolTip": "AsyncApp2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-17T15:10:13.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\AsyncApp2\\AsyncApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "AsyncApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\AsyncApp2\\AsyncApp2\\Form1.cs [Design]",
+              "RelativeToolTip": "AsyncApp2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:06:39.752Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
