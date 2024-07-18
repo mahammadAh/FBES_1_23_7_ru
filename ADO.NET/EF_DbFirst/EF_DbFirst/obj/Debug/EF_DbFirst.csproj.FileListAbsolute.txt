@@ -1,0 +1,12 @@
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_DbFirst\EF_DbFirst\bin\Debug\EF_DbFirst.exe.config
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_DbFirst\EF_DbFirst\bin\Debug\EF_DbFirst.exe
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_DbFirst\EF_DbFirst\bin\Debug\EF_DbFirst.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_DbFirst\EF_DbFirst\bin\Debug\EntityFramework.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_DbFirst\EF_DbFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_DbFirst\EF_DbFirst\bin\Debug\EntityFramework.xml
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_DbFirst\EF_DbFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_DbFirst\EF_DbFirst\obj\Debug\EF_DbFirst.csproj.AssemblyReference.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_DbFirst\EF_DbFirst\obj\Debug\EF_DbFirst.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_DbFirst\EF_DbFirst\obj\Debug\EF_DbFirst.csproj.Up2Date
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_DbFirst\EF_DbFirst\obj\Debug\EF_DbFirst.exe
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_DbFirst\EF_DbFirst\obj\Debug\EF_DbFirst.pdb

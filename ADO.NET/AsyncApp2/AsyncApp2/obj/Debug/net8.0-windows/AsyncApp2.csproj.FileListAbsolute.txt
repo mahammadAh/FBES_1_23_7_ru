@@ -24,3 +24,6 @@ C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\AsyncApp2\AsyncApp2\obj\D
 C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\AsyncApp2\AsyncApp2\obj\Debug\net8.0-windows\AsyncApp2.pdb
 C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\AsyncApp2\AsyncApp2\obj\Debug\net8.0-windows\AsyncApp2.genruntimeconfig.cache
 C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\AsyncApp2\AsyncApp2\obj\Debug\net8.0-windows\ref\AsyncApp2.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\AsyncApp2\AsyncApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\AsyncApp2\AsyncApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\AsyncApp2\AsyncApp2\bin\Debug\net8.0-windows\Npgsql.dll
