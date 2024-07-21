@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\repositories\\notesimagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\repositories\\notesimagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\migrations\\202407211704536_manytomanyforimagesandnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\migrations\\202407211704536_manytomanyforimagesandnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\models\\notesimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\models\\notesimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\models\\notioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\models\\notioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\repositories\\idcardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\repositories\\idcardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\models\\idcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\models\\idcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\migrations\\202407211654591_addimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\migrations\\202407211654591_addimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\repositories\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\repositories\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\migrations\\202407211647586_addnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\migrations\\202407211647586_addnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\migrations\\202407211639283_addidcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\migrations\\202407211639283_addidcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\migrations\\202407211539379_addsurnametouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\migrations\\202407211539379_addsurnametouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\ado.net\\ef_codefirst\\ef_codefirst\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{07D0831C-019B-45CC-A0BA-AAA4D2F928C6}|EF_CodeFirst\\EF_CodeFirst.csproj|solutionrelative:ef_codefirst\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "202407211704536_manyToManyForImagesAndNotes.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Migrations\\202407211704536_manyToManyForImagesAndNotes.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Migrations\\202407211704536_manyToManyForImagesAndNotes.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Migrations\\202407211704536_manyToManyForImagesAndNotes.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Migrations\\202407211704536_manyToManyForImagesAndNotes.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:04:59.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesImagesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Repositories\\NotesImagesRepository.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Repositories\\NotesImagesRepository.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Repositories\\NotesImagesRepository.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Repositories\\NotesImagesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:00:31.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesImages.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Models\\NotesImages.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Models\\NotesImages.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Models\\NotesImages.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Models\\NotesImages.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:57:45.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202407211654591_addImages.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Migrations\\202407211654591_addImages.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Migrations\\202407211654591_addImages.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Migrations\\202407211654591_addImages.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Migrations\\202407211654591_addImages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:55:05.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdCardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Repositories\\IdCardRepository.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Repositories\\IdCardRepository.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Repositories\\IdCardRepository.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Repositories\\IdCardRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:05:14.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotionContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Models\\NotionContext.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Models\\NotionContext.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Models\\NotionContext.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Models\\NotionContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:10:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Models\\User.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:08:48.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdCard.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Models\\IdCard.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Models\\IdCard.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Models\\IdCard.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Models\\IdCard.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:58:53.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Program.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Program.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAwwGoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:07:00.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Models\\Note.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Models\\Note.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA1wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:43:09.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:22:02.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:39:10.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Models\\Image.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Models\\Image.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Models\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:51:18.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "202407211647586_addNotes.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Migrations\\202407211647586_addNotes.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Migrations\\202407211647586_addNotes.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Migrations\\202407211647586_addNotes.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Migrations\\202407211647586_addNotes.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:48:02.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Repositories\\ImageRepository.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Repositories\\ImageRepository.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Repositories\\ImageRepository.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Repositories\\ImageRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:52:07.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\App.config",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\App.config",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\App.config",
+              "RelativeToolTip": "EF_CodeFirst\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-21T15:13:54.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "202407211639283_addIdCard.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Migrations\\202407211639283_addIdCard.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Migrations\\202407211639283_addIdCard.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Migrations\\202407211639283_addIdCard.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Migrations\\202407211639283_addIdCard.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:39:32.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Repositories\\NoteRepository.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Repositories\\NoteRepository.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Repositories\\NoteRepository.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Repositories\\NoteRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAMwBYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:43:49.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "202407211539379_addSurnameToUser.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Migrations\\202407211539379_addSurnameToUser.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst\\Migrations\\202407211539379_addSurnameToUser.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\ADO.NET\\EF_CodeFirst\\EF_CodeFirst\\Migrations\\202407211539379_addSurnameToUser.cs",
+              "RelativeToolTip": "EF_CodeFirst\\Migrations\\202407211539379_addSurnameToUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:39:42.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
