@@ -8,14 +8,13 @@ using System.Threading.Tasks;
 
 namespace EF_CodeFirst.Models
 {
-    internal class IdCard
+    public class IdCard
     {
-        public int Id { get; set; }
         public string FIN { get; set; }
 
-        [Key,ForeignKey("User")]
+        [Key, ForeignKey("User")]
         public int UserId { get; set; }
-        public User User { get; set; }
+        public virtual User User { get; set; }
 
     }
 }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EF_CodeFirst.Models
 {
-    internal class Note
+    public class Note
     {
         public int Id { get; set; }
 
@@ -16,8 +16,8 @@ namespace EF_CodeFirst.Models
         public int UserId { get; set; }
 
         [ForeignKey("UserId")]
-        public User User { get; set; }
+        public virtual User User { get; set; }
 
-        public ICollection<Image> Images { get; set; }
+        public virtual ICollection<Image> Images { get; set; }
     }
 }

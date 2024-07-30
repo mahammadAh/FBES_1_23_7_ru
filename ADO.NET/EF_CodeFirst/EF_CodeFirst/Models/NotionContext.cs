@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EF_CodeFirst.Models
 {
-    internal class NotionContext : DbContext
+    public class NotionContext : DbContext
     {
 
         public NotionContext() : base("LocalNotionDb")

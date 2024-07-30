@@ -17,3 +17,5 @@ C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_CodeFirst\EF_CodeFirst
 C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.Migrations.addNotes.resources
 C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.Migrations.addImages.resources
 C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.Migrations.manyToManyForImagesAndNotes.resources
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.Migrations.ChangePrimaryKey.resources
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.Migrations.ChangingforLayzLoading.resources

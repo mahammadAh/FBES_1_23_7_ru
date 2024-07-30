@@ -77,6 +77,14 @@
     <Compile Include="Migrations\202407211704536_manyToManyForImagesAndNotes.Designer.cs">
       <DependentUpon>202407211704536_manyToManyForImagesAndNotes.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202407301612270_ChangePrimaryKey.cs" />
+    <Compile Include="Migrations\202407301612270_ChangePrimaryKey.Designer.cs">
+      <DependentUpon>202407301612270_ChangePrimaryKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202407301640567_ChangingforLayzLoading.cs" />
+    <Compile Include="Migrations\202407301640567_ChangingforLayzLoading.Designer.cs">
+      <DependentUpon>202407301640567_ChangingforLayzLoading.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\IdCard.cs" />
     <Compile Include="Models\Image.cs" />
@@ -114,6 +122,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202407211704536_manyToManyForImagesAndNotes.resx">
       <DependentUpon>202407211704536_manyToManyForImagesAndNotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202407301612270_ChangePrimaryKey.resx">
+      <DependentUpon>202407301612270_ChangePrimaryKey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202407301640567_ChangingforLayzLoading.resx">
+      <DependentUpon>202407301640567_ChangingforLayzLoading.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

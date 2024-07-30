@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace EF_CodeFirst.Models
 {
   //  [Table("MyUsers")]
-    internal class User
+    public class User
     {
 
         public int Id { get; set; }
@@ -22,8 +22,14 @@ namespace EF_CodeFirst.Models
         public string Login { get; set; }
         public string Password { get; set; }
 
-        public IdCard idCard { get; set; }
+        public virtual IdCard idCard { get; set; }
 
-        public ICollection<Note> notes { get; set; }
+        public virtual ICollection<Note> notes { get; set; }
+
+
+        public override string ToString()
+        {
+            return $"{Id} {Name} {Surname} {Login}";
+        }
     }
 }

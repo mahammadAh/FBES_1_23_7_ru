@@ -22,5 +22,16 @@ namespace EF_CodeFirst.Repositories
             notionContext.IdCards.Add(idCard);
             notionContext.SaveChanges();
         }
+
+
+        public List<IdCard> GetAll()
+        {
+            //  notionContext.Configuration.LazyLoadingEnabled = false;
+
+            //   var users = notionContext.Users.Include("IdCard").ToList();
+            var idCards = notionContext.IdCards.ToList();
+            return idCards;
+
+        }
     }
 }

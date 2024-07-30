@@ -7,17 +7,17 @@ using System.Threading.Tasks;
 
 namespace EF_CodeFirst.Models
 {
-    internal class NotesImages
+    public class NotesImages
     {
         public int Id { get; set; }
         public int NoteId { get; set; }
 
         [ForeignKey("NoteId")]
-        public Note Note { get; set; }
+        public virtual Note Note { get; set; }
 
         public int ImageId { get; set; }
 
         [ForeignKey("ImageId")]
-        public Image Image { get; set; }
+        public  virtual Image Image { get; set; }
     }
 }

@@ -15,14 +15,16 @@ namespace EF_CodeFirst
             bool endProgram = false;
             while (!endProgram)
             {
-                Console.WriteLine("1.Create User \n2.Create Id Card \n3.Add Note \n4.Add Image \n 5.Add Image to Note \n9.End");
+                Console.WriteLine("1.Create User \n2.Create Id Card \n3.Add Note \n4.Add Image \n5.Add Image to Note\n6.Get Users\n7.Get Id Cards \n9.End\n");
                 int selected = Convert.ToInt32(Console.ReadLine());
-
-
+                Console.WriteLine("\n\n");
+                UserRepository userRepository = new UserRepository();
+                IdCardRepository idCardRepository = new IdCardRepository();
+                Console.Clear();
                 switch (selected)
                 {
                     case 1:
-                        UserRepository userRepository = new UserRepository();
+                      
 
                         Console.WriteLine("Name : ");
                         var name = Console.ReadLine();
@@ -45,8 +47,8 @@ namespace EF_CodeFirst
                         userRepository.Add(newUser);
                         break;
                     case 2:
-                        IdCardRepository idCardRepository = new IdCardRepository();
 
+                  
 
                         Console.WriteLine("FIN : ");
                         var finCode = Console.ReadLine();
@@ -111,10 +113,33 @@ namespace EF_CodeFirst
                         notesImagesRepository.Add(notesImages);
 
                         break;
+                    case 6:
+                        var users = userRepository.GetAll();
+
+
+                        foreach (var user in users)
+                        {
+                            Console.WriteLine(user);
+                            //Console.WriteLine(user.idCard?.FIN);
+                        }
+
+                        break;
+                    case 7:
+                        var idCards = idCardRepository.GetAll();
+
+
+                        foreach (var idCard in idCards)
+                        {
+                            Console.WriteLine(idCard.FIN);
+                            Console.WriteLine(idCard.User);
+                        }
+
+                        break;
                     case 9:
                         endProgram = true;
                         break;
                 }
+                Console.WriteLine("\n\n");
             }
         }
     }
