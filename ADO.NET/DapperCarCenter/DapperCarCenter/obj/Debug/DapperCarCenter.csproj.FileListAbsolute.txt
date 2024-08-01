@@ -1,0 +1,14 @@
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\DapperCarCenter\DapperCarCenter\bin\Debug\DapperCarCenter.exe.config
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\DapperCarCenter\DapperCarCenter\bin\Debug\DapperCarCenter.exe
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\DapperCarCenter\DapperCarCenter\bin\Debug\DapperCarCenter.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\DapperCarCenter\DapperCarCenter\bin\Debug\Dapper.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\DapperCarCenter\DapperCarCenter\bin\Debug\EntityFramework.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\DapperCarCenter\DapperCarCenter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\DapperCarCenter\DapperCarCenter\bin\Debug\Dapper.xml
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\DapperCarCenter\DapperCarCenter\bin\Debug\EntityFramework.xml
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\DapperCarCenter\DapperCarCenter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\DapperCarCenter\DapperCarCenter\obj\Debug\DapperCarCenter.csproj.AssemblyReference.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\DapperCarCenter\DapperCarCenter\obj\Debug\DapperCarCenter.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\DapperCarCenter\DapperCarCenter\obj\Debug\DapperCa.76843D77.Up2Date
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\DapperCarCenter\DapperCarCenter\obj\Debug\DapperCarCenter.exe
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\ADO.NET\DapperCarCenter\DapperCarCenter\obj\Debug\DapperCarCenter.pdb
