@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\bin\Debug\net8.0\FirstLesson.exe
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\bin\Debug\net8.0\FirstLesson.deps.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\bin\Debug\net8.0\FirstLesson.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\bin\Debug\net8.0\FirstLesson.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\bin\Debug\net8.0\FirstLesson.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\obj\Debug\net8.0\FirstLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\obj\Debug\net8.0\FirstLesson.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\obj\Debug\net8.0\FirstLesson.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\obj\Debug\net8.0\FirstLesson.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\obj\Debug\net8.0\FirstLesson.sourcelink.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\obj\Debug\net8.0\FirstLesson.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\obj\Debug\net8.0\refint\FirstLesson.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\obj\Debug\net8.0\FirstLesson.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\obj\Debug\net8.0\FirstLesson.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\FirstLesson\FirstLesson\obj\Debug\net8.0\ref\FirstLesson.dll
