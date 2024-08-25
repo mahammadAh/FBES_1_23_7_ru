@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\obj\Debug\net8.0\Multithreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\obj\Debug\net8.0\Multithreads.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\obj\Debug\net8.0\Multithreads.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\obj\Debug\net8.0\Multithreads.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\obj\Debug\net8.0\Multithreads.sourcelink.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\bin\Debug\net8.0\Multithreads.exe
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\bin\Debug\net8.0\Multithreads.deps.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\bin\Debug\net8.0\Multithreads.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\bin\Debug\net8.0\Multithreads.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\bin\Debug\net8.0\Multithreads.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\obj\Debug\net8.0\Multithreads.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\obj\Debug\net8.0\refint\Multithreads.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\obj\Debug\net8.0\Multithreads.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\obj\Debug\net8.0\Multithreads.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Multithreads\Multithreads\obj\Debug\net8.0\ref\Multithreads.dll
