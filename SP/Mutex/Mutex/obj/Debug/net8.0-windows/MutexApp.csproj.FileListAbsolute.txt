@@ -1,0 +1,17 @@
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\bin\Debug\net8.0-windows\MutexApp.exe
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\bin\Debug\net8.0-windows\MutexApp.deps.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\bin\Debug\net8.0-windows\MutexApp.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\bin\Debug\net8.0-windows\MutexApp.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\bin\Debug\net8.0-windows\MutexApp.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\obj\Debug\net8.0-windows\MutexApp.Form1.resources
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\obj\Debug\net8.0-windows\MutexApp.csproj.GenerateResource.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\obj\Debug\net8.0-windows\MutexApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\obj\Debug\net8.0-windows\MutexApp.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\obj\Debug\net8.0-windows\MutexApp.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\obj\Debug\net8.0-windows\MutexApp.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\obj\Debug\net8.0-windows\MutexApp.sourcelink.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\obj\Debug\net8.0-windows\MutexApp.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\obj\Debug\net8.0-windows\refint\MutexApp.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\obj\Debug\net8.0-windows\MutexApp.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\obj\Debug\net8.0-windows\MutexApp.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Mutex\Mutex\obj\Debug\net8.0-windows\ref\MutexApp.dll

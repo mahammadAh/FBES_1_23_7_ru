@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\SP\\ThreadsSyncronization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86592E7E-BC15-4A79-97AA-8EECB402FE30}|ThreadsSyncronization\\ThreadsSyncronization.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\sp\\threadssyncronization\\threadssyncronization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86592E7E-BC15-4A79-97AA-8EECB402FE30}|ThreadsSyncronization\\ThreadsSyncronization.csproj|solutionrelative:threadssyncronization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\SP\\ThreadsSyncronization\\ThreadsSyncronization\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadsSyncronization\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\SP\\ThreadsSyncronization\\ThreadsSyncronization\\Program.cs",
+              "RelativeToolTip": "ThreadsSyncronization\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:08:51.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\bin\Debug\net8.0\ThreadsSyncronization.exe
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\bin\Debug\net8.0\ThreadsSyncronization.deps.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\bin\Debug\net8.0\ThreadsSyncronization.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\bin\Debug\net8.0\ThreadsSyncronization.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\bin\Debug\net8.0\ThreadsSyncronization.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\obj\Debug\net8.0\ThreadsSyncronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\obj\Debug\net8.0\ThreadsSyncronization.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\obj\Debug\net8.0\ThreadsSyncronization.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\obj\Debug\net8.0\ThreadsSyncronization.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\obj\Debug\net8.0\ThreadsSyncronization.sourcelink.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\obj\Debug\net8.0\ThreadsSyncronization.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\obj\Debug\net8.0\refint\ThreadsSyncronization.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\obj\Debug\net8.0\ThreadsSyncronization.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\obj\Debug\net8.0\ThreadsSyncronization.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsSyncronization\ThreadsSyncronization\obj\Debug\net8.0\ref\ThreadsSyncronization.dll
