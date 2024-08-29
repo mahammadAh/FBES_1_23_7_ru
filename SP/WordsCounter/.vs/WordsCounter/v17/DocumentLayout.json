@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\SP\\WordsCounter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4386A338-AA50-4CC5-9826-923C2A2443DE}|WordsCounter\\WordsCounter.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\sp\\wordscounter\\wordscounter\\wordcountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386A338-AA50-4CC5-9826-923C2A2443DE}|WordsCounter\\WordsCounter.csproj|solutionrelative:wordscounter\\wordcountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386A338-AA50-4CC5-9826-923C2A2443DE}|WordsCounter\\WordsCounter.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\sp\\wordscounter\\wordscounter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386A338-AA50-4CC5-9826-923C2A2443DE}|WordsCounter\\WordsCounter.csproj|solutionrelative:wordscounter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386A338-AA50-4CC5-9826-923C2A2443DE}|WordsCounter\\WordsCounter.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\sp\\wordscounter\\wordscounter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4386A338-AA50-4CC5-9826-923C2A2443DE}|WordsCounter\\WordsCounter.csproj|solutionrelative:wordscounter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386A338-AA50-4CC5-9826-923C2A2443DE}|WordsCounter\\WordsCounter.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\sp\\wordscounter\\wordscounter\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4386A338-AA50-4CC5-9826-923C2A2443DE}|WordsCounter\\WordsCounter.csproj|solutionrelative:wordscounter\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordCountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\SP\\WordsCounter\\WordsCounter\\WordCountViewModel.cs",
+              "RelativeDocumentMoniker": "WordsCounter\\WordCountViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\SP\\WordsCounter\\WordsCounter\\WordCountViewModel.cs",
+              "RelativeToolTip": "WordsCounter\\WordCountViewModel.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:22:35.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\SP\\WordsCounter\\WordsCounter\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WordsCounter\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\SP\\WordsCounter\\WordsCounter\\AssemblyInfo.cs",
+              "RelativeToolTip": "WordsCounter\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:11:58.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\SP\\WordsCounter\\WordsCounter\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WordsCounter\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\SP\\WordsCounter\\WordsCounter\\MainWindow.xaml",
+              "RelativeToolTip": "WordsCounter\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T15:06:13.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\SP\\WordsCounter\\WordsCounter\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WordsCounter\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\Code\\FBES_1_23_7_ru\\SP\\WordsCounter\\WordsCounter\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WordsCounter\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:06:11.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
