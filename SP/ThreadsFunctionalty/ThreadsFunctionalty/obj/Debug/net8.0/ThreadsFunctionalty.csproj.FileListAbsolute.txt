@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\bin\Debug\net8.0\ThreadsFunctionalty.exe
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\bin\Debug\net8.0\ThreadsFunctionalty.deps.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\bin\Debug\net8.0\ThreadsFunctionalty.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\bin\Debug\net8.0\ThreadsFunctionalty.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\bin\Debug\net8.0\ThreadsFunctionalty.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\obj\Debug\net8.0\ThreadsFunctionalty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\obj\Debug\net8.0\ThreadsFunctionalty.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\obj\Debug\net8.0\ThreadsFunctionalty.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\obj\Debug\net8.0\ThreadsFunctionalty.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\obj\Debug\net8.0\ThreadsFunctionalty.sourcelink.json
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\obj\Debug\net8.0\ThreadsFunctionalty.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\obj\Debug\net8.0\refint\ThreadsFunctionalty.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\obj\Debug\net8.0\ThreadsFunctionalty.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\obj\Debug\net8.0\ThreadsFunctionalty.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\ThreadsFunctionalty\ThreadsFunctionalty\obj\Debug\net8.0\ref\ThreadsFunctionalty.dll
