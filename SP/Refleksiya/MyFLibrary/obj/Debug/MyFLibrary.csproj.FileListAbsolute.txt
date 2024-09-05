@@ -1,0 +1,6 @@
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Refleksiya\MyFLibrary\bin\Debug\MyFLibrary.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Refleksiya\MyFLibrary\bin\Debug\MyFLibrary.pdb
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Refleksiya\MyFLibrary\obj\Debug\MyFLibrary.csproj.AssemblyReference.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Refleksiya\MyFLibrary\obj\Debug\MyFLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Refleksiya\MyFLibrary\obj\Debug\MyFLibrary.dll
+C:\Users\ahmadov_m\Desktop\Code\FBES_1_23_7_ru\SP\Refleksiya\MyFLibrary\obj\Debug\MyFLibrary.pdb
