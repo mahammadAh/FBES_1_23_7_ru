@@ -1,0 +1,14 @@
+C:\Users\ahmadov_m\source\repos\TCP\TCPServer\bin\Debug\net8.0\TCPServer.exe
+C:\Users\ahmadov_m\source\repos\TCP\TCPServer\bin\Debug\net8.0\TCPServer.deps.json
+C:\Users\ahmadov_m\source\repos\TCP\TCPServer\bin\Debug\net8.0\TCPServer.runtimeconfig.json
+C:\Users\ahmadov_m\source\repos\TCP\TCPServer\bin\Debug\net8.0\TCPServer.dll
+C:\Users\ahmadov_m\source\repos\TCP\TCPServer\bin\Debug\net8.0\TCPServer.pdb
+C:\Users\ahmadov_m\source\repos\TCP\TCPServer\obj\Debug\net8.0\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\source\repos\TCP\TCPServer\obj\Debug\net8.0\TCPServer.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\source\repos\TCP\TCPServer\obj\Debug\net8.0\TCPServer.AssemblyInfo.cs
+C:\Users\ahmadov_m\source\repos\TCP\TCPServer\obj\Debug\net8.0\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\source\repos\TCP\TCPServer\obj\Debug\net8.0\TCPServer.dll
+C:\Users\ahmadov_m\source\repos\TCP\TCPServer\obj\Debug\net8.0\refint\TCPServer.dll
+C:\Users\ahmadov_m\source\repos\TCP\TCPServer\obj\Debug\net8.0\TCPServer.pdb
+C:\Users\ahmadov_m\source\repos\TCP\TCPServer\obj\Debug\net8.0\TCPServer.genruntimeconfig.cache
+C:\Users\ahmadov_m\source\repos\TCP\TCPServer\obj\Debug\net8.0\ref\TCPServer.dll

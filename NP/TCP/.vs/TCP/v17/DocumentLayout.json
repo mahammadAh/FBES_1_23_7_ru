@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C250A-FB9B-419C-899E-F02AF67D7232}|TCPClient\\TCPClient.csproj|c:\\users\\ahmadov_m\\source\\repos\\tcp\\tcpclient\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C250A-FB9B-419C-899E-F02AF67D7232}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EEC5B7-146E-450F-BC1E-188E000CE41F}|TCPServer\\TCPServer.csproj|c:\\users\\ahmadov_m\\source\\repos\\tcp\\tcpserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EEC5B7-146E-450F-BC1E-188E000CE41F}|TCPServer\\TCPServer.csproj|solutionrelative:tcpserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C250A-FB9B-419C-899E-F02AF67D7232}|TCPClient\\TCPClient.csproj|c:\\users\\ahmadov_m\\source\\repos\\tcp\\tcpclient\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C250A-FB9B-419C-899E-F02AF67D7232}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C250A-FB9B-419C-899E-F02AF67D7232}|TCPClient\\TCPClient.csproj|c:\\users\\ahmadov_m\\source\\repos\\tcp\\tcpclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A0C250A-FB9B-419C-899E-F02AF67D7232}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EEC5B7-146E-450F-BC1E-188E000CE41F}|TCPServer\\TCPServer.csproj|c:\\users\\ahmadov_m\\source\\repos\\tcp\\tcpserver\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EEC5B7-146E-450F-BC1E-188E000CE41F}|TCPServer\\TCPServer.csproj|solutionrelative:tcpserver\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C250A-FB9B-419C-899E-F02AF67D7232}|TCPClient\\TCPClient.csproj|c:\\users\\ahmadov_m\\source\\repos\\tcp\\tcpclient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C250A-FB9B-419C-899E-F02AF67D7232}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EEC5B7-146E-450F-BC1E-188E000CE41F}|TCPServer\\TCPServer.csproj|c:\\users\\ahmadov_m\\source\\repos\\tcp\\tcpserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EEC5B7-146E-450F-BC1E-188E000CE41F}|TCPServer\\TCPServer.csproj|solutionrelative:tcpserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C250A-FB9B-419C-899E-F02AF67D7232}|TCPClient\\TCPClient.csproj|c:\\users\\ahmadov_m\\source\\repos\\tcp\\tcpclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C250A-FB9B-419C-899E-F02AF67D7232}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHQUAAAAAAAAAAD4v30UAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-19T17:07:58.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPServer\\Client.cs",
+              "RelativeDocumentMoniker": "TCPServer\\Client.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPServer\\Client.cs",
+              "RelativeToolTip": "TCPServer\\Client.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:52:56.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPServer\\RequestModel.cs",
+              "RelativeDocumentMoniker": "TCPServer\\RequestModel.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPServer\\RequestModel.cs",
+              "RelativeToolTip": "TCPServer\\RequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:50:34.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPClient\\RequestModel.cs",
+              "RelativeDocumentMoniker": "TCPClient\\RequestModel.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPClient\\RequestModel.cs",
+              "RelativeToolTip": "TCPClient\\RequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:46:24.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPClient\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TCPClient\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPClient\\AssemblyInfo.cs",
+              "RelativeToolTip": "TCPClient\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:50:21.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPClient\\ClientViewModel.cs",
+              "RelativeDocumentMoniker": "TCPClient\\ClientViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPClient\\ClientViewModel.cs",
+              "RelativeToolTip": "TCPClient\\ClientViewModel.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAswIQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:40:57.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TCPClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPClient\\MainWindow.xaml",
+              "RelativeToolTip": "TCPClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T15:15:36.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPServer\\Server.cs",
+              "RelativeDocumentMoniker": "TCPServer\\Server.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPServer\\Server.cs",
+              "RelativeToolTip": "TCPServer\\Server.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:14:22.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TCPClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\source\\repos\\TCP\\TCPClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TCPClient\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:15:36.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
