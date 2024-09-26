@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\HttpServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E548114-62B5-4E14-942C-6B8648D34AFB}|HttpServer\\HttpServer.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\np\\httpserver\\httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E548114-62B5-4E14-942C-6B8648D34AFB}|HttpServer\\HttpServer.csproj|solutionrelative:httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\HttpServer\\HttpServer\\Program.cs",
+              "RelativeDocumentMoniker": "HttpServer\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\HttpServer\\HttpServer\\Program.cs",
+              "RelativeToolTip": "HttpServer\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:04:49.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿<Window x:Class="ClientUDP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientUDP"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="300">
+    <Grid>
+        <DockPanel >
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Height="30">
+                <Label>IP Address : </Label>
+                <TextBlock Text="{Binding IP}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100">ip</TextBlock>
+                <Label>PORT : </Label>
+                <TextBlock Text="{Binding PORT}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100">port</TextBlock>
+            </StackPanel>
+            <Button Command="{Binding ShareButtonCommand}">SHARE</Button>
+        </DockPanel>
+    </Grid>
+</Window>

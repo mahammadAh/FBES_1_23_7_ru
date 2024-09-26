@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019E24D8-9E74-4965-AC38-B8784615B581}|ClientUDP\\ClientUDP.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\np\\udp\\clientudp\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019E24D8-9E74-4965-AC38-B8784615B581}|ClientUDP\\ClientUDP.csproj|solutionrelative:clientudp\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5AF344-CD96-4D76-9089-8C17E761FBF4}|ServerUDP\\ServerUDP.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\np\\udp\\serverudp\\serverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5AF344-CD96-4D76-9089-8C17E761FBF4}|ServerUDP\\ServerUDP.csproj|solutionrelative:serverudp\\serverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5AF344-CD96-4D76-9089-8C17E761FBF4}|ServerUDP\\ServerUDP.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\np\\udp\\serverudp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC5AF344-CD96-4D76-9089-8C17E761FBF4}|ServerUDP\\ServerUDP.csproj|solutionrelative:serverudp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5AF344-CD96-4D76-9089-8C17E761FBF4}|ServerUDP\\ServerUDP.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\np\\udp\\serverudp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5AF344-CD96-4D76-9089-8C17E761FBF4}|ServerUDP\\ServerUDP.csproj|solutionrelative:serverudp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5AF344-CD96-4D76-9089-8C17E761FBF4}|ServerUDP\\ServerUDP.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\np\\udp\\serverudp\\serverudp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC5AF344-CD96-4D76-9089-8C17E761FBF4}|ServerUDP\\ServerUDP.csproj|solutionrelative:serverudp\\serverudp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019E24D8-9E74-4965-AC38-B8784615B581}|ClientUDP\\ClientUDP.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\np\\udp\\clientudp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{019E24D8-9E74-4965-AC38-B8784615B581}|ClientUDP\\ClientUDP.csproj|solutionrelative:clientudp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019E24D8-9E74-4965-AC38-B8784615B581}|ClientUDP\\ClientUDP.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\np\\udp\\clientudp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019E24D8-9E74-4965-AC38-B8784615B581}|ClientUDP\\ClientUDP.csproj|solutionrelative:clientudp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019E24D8-9E74-4965-AC38-B8784615B581}|ClientUDP\\ClientUDP.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\np\\udp\\clientudp\\clientudp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{019E24D8-9E74-4965-AC38-B8784615B581}|ClientUDP\\ClientUDP.csproj|solutionrelative:clientudp\\clientudp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019E24D8-9E74-4965-AC38-B8784615B581}|ClientUDP\\ClientUDP.csproj|c:\\users\\ahmadov_m\\desktop\\code\\fbes_1_23_7_ru\\np\\udp\\clientudp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019E24D8-9E74-4965-AC38-B8784615B581}|ClientUDP\\ClientUDP.csproj|solutionrelative:clientudp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerUDP",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ServerUDP\\ServerUDP.csproj",
+              "RelativeDocumentMoniker": "ServerUDP\\ServerUDP.csproj",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ServerUDP\\ServerUDP.csproj",
+              "RelativeToolTip": "ServerUDP\\ServerUDP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T16:46:13.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ServerUDP\\ServerViewModel.cs",
+              "RelativeDocumentMoniker": "ServerUDP\\ServerViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ServerUDP\\ServerViewModel.cs",
+              "RelativeToolTip": "ServerUDP\\ServerViewModel.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:47:16.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ClientUDP\\ClientViewModel.cs",
+              "RelativeDocumentMoniker": "ClientUDP\\ClientViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ClientUDP\\ClientViewModel.cs",
+              "RelativeToolTip": "ClientUDP\\ClientViewModel.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:28:11.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientUDP",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ClientUDP\\ClientUDP.csproj",
+              "RelativeDocumentMoniker": "ClientUDP\\ClientUDP.csproj",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ClientUDP\\ClientUDP.csproj",
+              "RelativeToolTip": "ClientUDP\\ClientUDP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T15:23:12.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ClientUDP\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ClientUDP\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ClientUDP\\AssemblyInfo.cs",
+              "RelativeToolTip": "ClientUDP\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:23:11.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ServerUDP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ServerUDP\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ServerUDP\\MainWindow.xaml",
+              "RelativeToolTip": "ServerUDP\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T15:23:03.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ServerUDP\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ServerUDP\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ServerUDP\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ServerUDP\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:23:03.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ClientUDP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ClientUDP\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ClientUDP\\MainWindow.xaml",
+              "RelativeToolTip": "ClientUDP\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T15:22:43.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ClientUDP\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClientUDP\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmadov_m\\Desktop\\code\\FBES_1_23_7_ru\\NP\\UDP\\ClientUDP\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ClientUDP\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:22:43.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

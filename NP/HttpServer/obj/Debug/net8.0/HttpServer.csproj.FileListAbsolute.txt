@@ -1,0 +1,15 @@
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\bin\Debug\net8.0\HttpServer.exe
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\bin\Debug\net8.0\HttpServer.deps.json
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\bin\Debug\net8.0\HttpServer.runtimeconfig.json
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\bin\Debug\net8.0\HttpServer.dll
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\bin\Debug\net8.0\HttpServer.pdb
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\obj\Debug\net8.0\HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\obj\Debug\net8.0\HttpServer.AssemblyInfoInputs.cache
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\obj\Debug\net8.0\HttpServer.AssemblyInfo.cs
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\obj\Debug\net8.0\HttpServer.csproj.CoreCompileInputs.cache
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\obj\Debug\net8.0\HttpServer.sourcelink.json
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\obj\Debug\net8.0\HttpServer.dll
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\obj\Debug\net8.0\refint\HttpServer.dll
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\obj\Debug\net8.0\HttpServer.pdb
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\obj\Debug\net8.0\HttpServer.genruntimeconfig.cache
+C:\Users\ahmadov_m\Desktop\code\FBES_1_23_7_ru\NP\HttpServer\obj\Debug\net8.0\ref\HttpServer.dll
